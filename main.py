@@ -7,6 +7,7 @@ comic_count = 0
 chars = [None] * 10000
 comics = [None] * 20000
 counts = {}
+outputFile = open('outputs/charCounts.txt', 'w+')
 with codecs.open("inputs/porgat.txt", 'r', encoding='utf-8', errors='ignore') as file:
     line_count = 0
 
@@ -39,11 +40,11 @@ with codecs.open("inputs/porgat.txt", 'r', encoding='utf-8', errors='ignore') as
         line_count += 1
 
 
-print('comic count: ', comic_count)
-print('char count: ', char_count)
+print('comic count: ', comic_count, file=outputFile)
+print('char count: ', char_count, file=outputFile)
 
 counts = sorted(counts.items(), key=operator.itemgetter(1), reverse=True)
 
-print("{0:30} {1}".format('Name', 'Count'))
+print("{0:4} {1:30} {2}".format('ID', 'Name', 'Count'), file=outputFile)
 for char in counts:
-    print("{0:30} {1}".format(chars[char[0]], char[1]))
+    print("{0:4} {1:30} {2}".format(char[0], chars[char[0]], char[1]), file=outputFile)
