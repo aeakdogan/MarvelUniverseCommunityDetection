@@ -113,8 +113,8 @@ def main():
     line_count = 0
     n = 0
     outputFile = open('../outputs/communities.txt', 'w+')
-    #with codecs.open("../inputs/sampleInput.txt", 'r', encoding='utf-8', errors='ignore') as file:
-    with codecs.open("../inputs/weighted_edges.txt", 'r', encoding='utf-8', errors='ignore') as file:
+    with codecs.open("../inputs/sampleInput.txt", 'r', encoding='utf-8', errors='ignore') as file:
+    #with codecs.open("../inputs/weighted_edges.txt", 'r', encoding='utf-8', errors='ignore') as file:
         for line in file:
             if line_count == 0:
                 line_count += 1
