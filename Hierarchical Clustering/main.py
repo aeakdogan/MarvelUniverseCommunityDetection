@@ -26,23 +26,17 @@ def generate_adjacency_matrix(inputpath):
             linesplit = line.split()
             x = int(linesplit[0])
             y = [int(num) for num in linesplit[1:]]
-            for cbook in y:
-                if cbook not in char_book_dict:
-                    char_book_dict[x] = y
-                else:
-                    char_book_dict[x] = char_book_dict[x].extend(y)
-
+            if x not in char_book_dict:
+                char_book_dict[x] = y
+            else:
+                char_book_dict[x].extend(y)
     return char_book_dict
 
 
 def jaccard_distance(char1, char2):
-    intersection = np.sum(char1 == char2)
-    union = len(char1) + len(char2) - intersection
-
-    jaccard_sim = float(intersection) / float(union)
-    jaccard_dist = 1 - jaccard_sim
-
-    return jaccard_dist
+    intersection_cardinality = len(set.intersection(*[set(char1), set(char2)]))
+    union_cardinality = len(set.union(*[set(char1), set(char2)]))
+    return 1.0 - (intersection_cardinality / float(union_cardinality))
 
 
 def generate_distance_dict(adj_matrix):
@@ -57,23 +51,35 @@ def generate_distance_dict(adj_matrix):
             if char1[0] != char2[0] and key_pair not in distance_dict:
                 distance_dict[key_pair] = jaccard_dist
         print('Preparing distance_matrix .. ')
+
+    inputpath = '../outputs/distance.txt'
+    with codecs.open(inputpath, 'w', encoding='utf-8', errors='ignore') as file:
+        for x in distance_dict.items():
+            if x[1] < 1:
+                line = 'Node1: {}, Node2: {}, Distance: {}\n'.format(x[0][0], x[0][1], x[1])
+                file.write(line)
+
     return distance_dict
 
 
-def sum_sq(community, node, adj_matrix):
+def sum_sq(community, node, dist_dic):
     sum = 0
     for n in community:
         if n.id != node.id:
-            sum += np.square(jaccard_distance(adj_matrix[n.id], adj_matrix[node.id]))
+            key = (min(n.id, node.id), max(n.id, node.id))
+            dist = dist_dic[key]
+            sum += np.square(dist)
     return sum
 
 
-def assign_centroid(communities, community_nodes, adj_matrix):  # Community nodes is a list of node ids
+def assign_centroid(communities, community_nodes, dist_dic):  # Community nodes is a list of node ids
     min_sq_dist = sys.maxsize
     index = 0
     for idx, node in enumerate(community_nodes):
-        sq_dist = sum_sq(community_nodes, node, adj_matrix)
-        index = idx if sq_dist < min_sq_dist else index
+        sq_dist = sum_sq(community_nodes, node, dist_dic)
+        if sq_dist < min_sq_dist:
+            index = idx
+            min_sq_dist = sq_dist
     communities[community_nodes[index].id].is_centroid = True
 
 
@@ -94,15 +100,17 @@ def community_members(communities, centroid1, centroid2):
     # Set all members comm_id to new_id
     # Turn is_centroid attribute of centroid to False
     new_id = min(centroid1.comm_id, centroid2.comm_id)
+    id1 = centroid1.comm_id
+    id2 = centroid2.comm_id
     comm1 = []
     comm2 = []
     for i in range(1, len(communities)):
         if communities[i] == centroid1 or communities[i] == centroid2:
             communities[i].is_centroid = False
-        if communities[i].comm_id == centroid1.comm_id:
+        if communities[i].comm_id == id1:
             communities[i].comm_id = new_id  # Set new community id
             comm1.append(communities[i])
-        elif communities[i].comm_id == centroid2.comm_id:
+        elif communities[i].comm_id == id2:
             communities[i].comm_id = new_id  # Set new community id
             comm2.append(communities[i])
     return comm1, comm2
@@ -110,29 +118,29 @@ def community_members(communities, centroid1, centroid2):
 
 def hierarchical_clustering(communities, dist_dict, adj_matrix):
     min_distance = 0
-    while min_distance < 1:
+    while min_distance < 0.8:
         node1, node2, min_distance = find_min(dist_dict, communities)
         community1, community2 = community_members(communities, node1, node2)
         combined_community = community1 + community2
-        assign_centroid(communities, combined_community, adj_matrix)
+        assign_centroid(communities, combined_community, dist_dict)
 
 
 def main():
     print('Generating Distance Matrix, Please Wait(~ 8 min)...')
-    edgelist = '../weighted_edgelist/edgelist.txt'
+    edgelist = '../weigthed_edgelist/edgelist.txt'
     adj_matrix = generate_adjacency_matrix(edgelist)
     dist_dict = generate_distance_dict(adj_matrix)
     sorted_dist_dic = OrderedDict(sorted(dist_dict.items(), key=operator.itemgetter(1)))
 
-
     communities = [None]
     char_count = 6486
+
     for i in range(1, char_count+1):
         communities.append(Community(i, i, True))
-
+    print(communities[0])
+    print(communities[1])
     print('Searching Communities, Please Wait...')
     hierarchical_clustering(communities, sorted_dist_dic, adj_matrix)
-
 
     community_output = {}
     for i in range(1, len(communities)):
@@ -146,13 +154,13 @@ def main():
     print('Generating Output, Please Wait...')
     txt_output = ''
     for out in community_output.items():
-        if len(out[1]) > 10:
+        if len(out[1]) > 5:
             msg = '\n********** Community [{}] ************\n'.format(out[0])
             txt_output += msg
             for node in out[1]:
                 txt_output += node.__repr__()
 
-    with codecs.open('../outputs/HierarchicalClusteringCommunities.txt', 'w', encoding='utf-8', errors='ignore') as file:
+    with codecs.open('../outputs/HierarchicalClusteringCommunities1.txt', 'w', encoding='utf-8', errors='ignore') as file:
         file.write(txt_output)
 
 main()

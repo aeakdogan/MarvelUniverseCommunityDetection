@@ -1,0 +1,5006 @@
+
+********** Community [11] ************
+
+Id: 11, Community ID: 11, Is Centroid: False
+
+Id: 17, Community ID: 11, Is Centroid: False
+
+Id: 117, Community ID: 11, Is Centroid: False
+
+Id: 473, Community ID: 11, Is Centroid: False
+
+Id: 479, Community ID: 11, Is Centroid: True
+
+Id: 506, Community ID: 11, Is Centroid: False
+
+Id: 534, Community ID: 11, Is Centroid: False
+
+Id: 660, Community ID: 11, Is Centroid: False
+
+Id: 732, Community ID: 11, Is Centroid: False
+
+Id: 1479, Community ID: 11, Is Centroid: False
+
+Id: 1585, Community ID: 11, Is Centroid: False
+
+Id: 1596, Community ID: 11, Is Centroid: False
+
+Id: 1605, Community ID: 11, Is Centroid: False
+
+Id: 1614, Community ID: 11, Is Centroid: False
+
+Id: 1636, Community ID: 11, Is Centroid: False
+
+Id: 1819, Community ID: 11, Is Centroid: False
+
+Id: 1872, Community ID: 11, Is Centroid: False
+
+Id: 2070, Community ID: 11, Is Centroid: False
+
+Id: 2185, Community ID: 11, Is Centroid: False
+
+Id: 2507, Community ID: 11, Is Centroid: False
+
+Id: 2554, Community ID: 11, Is Centroid: False
+
+Id: 2615, Community ID: 11, Is Centroid: False
+
+Id: 2660, Community ID: 11, Is Centroid: False
+
+Id: 2724, Community ID: 11, Is Centroid: False
+
+Id: 2730, Community ID: 11, Is Centroid: False
+
+Id: 3413, Community ID: 11, Is Centroid: False
+
+Id: 3596, Community ID: 11, Is Centroid: False
+
+Id: 3752, Community ID: 11, Is Centroid: False
+
+Id: 3891, Community ID: 11, Is Centroid: False
+
+Id: 4001, Community ID: 11, Is Centroid: False
+
+Id: 4319, Community ID: 11, Is Centroid: False
+
+Id: 4548, Community ID: 11, Is Centroid: False
+
+Id: 4979, Community ID: 11, Is Centroid: False
+
+Id: 5447, Community ID: 11, Is Centroid: False
+
+Id: 5488, Community ID: 11, Is Centroid: False
+
+Id: 5517, Community ID: 11, Is Centroid: False
+
+Id: 5743, Community ID: 11, Is Centroid: False
+
+Id: 5877, Community ID: 11, Is Centroid: False
+
+Id: 5988, Community ID: 11, Is Centroid: False
+
+Id: 6085, Community ID: 11, Is Centroid: False
+
+Id: 6352, Community ID: 11, Is Centroid: False
+
+Id: 6375, Community ID: 11, Is Centroid: False
+
+********** Community [13] ************
+
+Id: 13, Community ID: 13, Is Centroid: False
+
+Id: 14, Community ID: 13, Is Centroid: False
+
+Id: 1778, Community ID: 13, Is Centroid: False
+
+Id: 1999, Community ID: 13, Is Centroid: False
+
+Id: 6455, Community ID: 13, Is Centroid: False
+
+Id: 6460, Community ID: 13, Is Centroid: True
+
+Id: 6461, Community ID: 13, Is Centroid: False
+
+Id: 6463, Community ID: 13, Is Centroid: False
+
+Id: 6464, Community ID: 13, Is Centroid: False
+
+Id: 6467, Community ID: 13, Is Centroid: False
+
+Id: 6469, Community ID: 13, Is Centroid: False
+
+Id: 6471, Community ID: 13, Is Centroid: False
+
+Id: 6472, Community ID: 13, Is Centroid: False
+
+Id: 6473, Community ID: 13, Is Centroid: False
+
+Id: 6474, Community ID: 13, Is Centroid: False
+
+Id: 6475, Community ID: 13, Is Centroid: False
+
+Id: 6478, Community ID: 13, Is Centroid: False
+
+********** Community [19] ************
+
+Id: 19, Community ID: 19, Is Centroid: False
+
+Id: 28, Community ID: 19, Is Centroid: False
+
+Id: 3398, Community ID: 19, Is Centroid: False
+
+Id: 4053, Community ID: 19, Is Centroid: False
+
+Id: 4508, Community ID: 19, Is Centroid: False
+
+Id: 4758, Community ID: 19, Is Centroid: False
+
+Id: 5829, Community ID: 19, Is Centroid: False
+
+Id: 6220, Community ID: 19, Is Centroid: False
+
+Id: 6452, Community ID: 19, Is Centroid: True
+
+********** Community [21] ************
+
+Id: 21, Community ID: 21, Is Centroid: False
+
+Id: 43, Community ID: 21, Is Centroid: False
+
+Id: 67, Community ID: 21, Is Centroid: False
+
+Id: 259, Community ID: 21, Is Centroid: False
+
+Id: 936, Community ID: 21, Is Centroid: False
+
+Id: 2419, Community ID: 21, Is Centroid: True
+
+Id: 2489, Community ID: 21, Is Centroid: False
+
+Id: 2975, Community ID: 21, Is Centroid: False
+
+Id: 4149, Community ID: 21, Is Centroid: False
+
+Id: 5104, Community ID: 21, Is Centroid: False
+
+Id: 5945, Community ID: 21, Is Centroid: False
+
+********** Community [31] ************
+
+Id: 31, Community ID: 31, Is Centroid: False
+
+Id: 891, Community ID: 31, Is Centroid: False
+
+Id: 1276, Community ID: 31, Is Centroid: False
+
+Id: 1355, Community ID: 31, Is Centroid: False
+
+Id: 1650, Community ID: 31, Is Centroid: False
+
+Id: 2104, Community ID: 31, Is Centroid: False
+
+Id: 2105, Community ID: 31, Is Centroid: False
+
+Id: 3183, Community ID: 31, Is Centroid: False
+
+Id: 4672, Community ID: 31, Is Centroid: True
+
+Id: 5285, Community ID: 31, Is Centroid: False
+
+Id: 5333, Community ID: 31, Is Centroid: False
+
+Id: 6342, Community ID: 31, Is Centroid: False
+
+********** Community [32] ************
+
+Id: 32, Community ID: 32, Is Centroid: False
+
+Id: 1135, Community ID: 32, Is Centroid: True
+
+Id: 1220, Community ID: 32, Is Centroid: False
+
+Id: 1505, Community ID: 32, Is Centroid: False
+
+Id: 1607, Community ID: 32, Is Centroid: False
+
+Id: 4004, Community ID: 32, Is Centroid: False
+
+Id: 4326, Community ID: 32, Is Centroid: False
+
+********** Community [36] ************
+
+Id: 36, Community ID: 36, Is Centroid: False
+
+Id: 2984, Community ID: 36, Is Centroid: False
+
+Id: 3644, Community ID: 36, Is Centroid: True
+
+Id: 4003, Community ID: 36, Is Centroid: False
+
+Id: 5900, Community ID: 36, Is Centroid: False
+
+Id: 6086, Community ID: 36, Is Centroid: False
+
+********** Community [39] ************
+
+Id: 39, Community ID: 39, Is Centroid: True
+
+Id: 456, Community ID: 39, Is Centroid: False
+
+Id: 596, Community ID: 39, Is Centroid: False
+
+Id: 1057, Community ID: 39, Is Centroid: False
+
+Id: 1059, Community ID: 39, Is Centroid: False
+
+Id: 1068, Community ID: 39, Is Centroid: False
+
+Id: 1280, Community ID: 39, Is Centroid: False
+
+Id: 2319, Community ID: 39, Is Centroid: False
+
+Id: 2770, Community ID: 39, Is Centroid: False
+
+Id: 3391, Community ID: 39, Is Centroid: False
+
+Id: 4116, Community ID: 39, Is Centroid: False
+
+Id: 4354, Community ID: 39, Is Centroid: False
+
+Id: 4961, Community ID: 39, Is Centroid: False
+
+Id: 5068, Community ID: 39, Is Centroid: False
+
+Id: 6115, Community ID: 39, Is Centroid: False
+
+********** Community [40] ************
+
+Id: 40, Community ID: 40, Is Centroid: False
+
+Id: 2323, Community ID: 40, Is Centroid: False
+
+Id: 3659, Community ID: 40, Is Centroid: False
+
+Id: 3772, Community ID: 40, Is Centroid: False
+
+Id: 3787, Community ID: 40, Is Centroid: True
+
+Id: 3788, Community ID: 40, Is Centroid: False
+
+********** Community [47] ************
+
+Id: 47, Community ID: 47, Is Centroid: False
+
+Id: 48, Community ID: 47, Is Centroid: False
+
+Id: 3667, Community ID: 47, Is Centroid: False
+
+Id: 3668, Community ID: 47, Is Centroid: False
+
+Id: 3753, Community ID: 47, Is Centroid: True
+
+Id: 3854, Community ID: 47, Is Centroid: False
+
+********** Community [49] ************
+
+Id: 49, Community ID: 49, Is Centroid: False
+
+Id: 2170, Community ID: 49, Is Centroid: True
+
+Id: 2556, Community ID: 49, Is Centroid: False
+
+Id: 3082, Community ID: 49, Is Centroid: False
+
+Id: 4808, Community ID: 49, Is Centroid: False
+
+Id: 5930, Community ID: 49, Is Centroid: False
+
+********** Community [56] ************
+
+Id: 56, Community ID: 56, Is Centroid: True
+
+Id: 1007, Community ID: 56, Is Centroid: False
+
+Id: 1074, Community ID: 56, Is Centroid: False
+
+Id: 2214, Community ID: 56, Is Centroid: False
+
+Id: 4294, Community ID: 56, Is Centroid: False
+
+Id: 4620, Community ID: 56, Is Centroid: False
+
+********** Community [58] ************
+
+Id: 58, Community ID: 58, Is Centroid: False
+
+Id: 1018, Community ID: 58, Is Centroid: False
+
+Id: 1281, Community ID: 58, Is Centroid: False
+
+Id: 1331, Community ID: 58, Is Centroid: False
+
+Id: 1962, Community ID: 58, Is Centroid: False
+
+Id: 2119, Community ID: 58, Is Centroid: False
+
+Id: 2508, Community ID: 58, Is Centroid: False
+
+Id: 2614, Community ID: 58, Is Centroid: False
+
+Id: 2723, Community ID: 58, Is Centroid: False
+
+Id: 2778, Community ID: 58, Is Centroid: False
+
+Id: 2810, Community ID: 58, Is Centroid: False
+
+Id: 2896, Community ID: 58, Is Centroid: False
+
+Id: 3388, Community ID: 58, Is Centroid: False
+
+Id: 4229, Community ID: 58, Is Centroid: False
+
+Id: 4621, Community ID: 58, Is Centroid: True
+
+Id: 5707, Community ID: 58, Is Centroid: False
+
+Id: 6393, Community ID: 58, Is Centroid: False
+
+Id: 6451, Community ID: 58, Is Centroid: False
+
+********** Community [64] ************
+
+Id: 64, Community ID: 64, Is Centroid: True
+
+Id: 268, Community ID: 64, Is Centroid: False
+
+Id: 647, Community ID: 64, Is Centroid: False
+
+Id: 898, Community ID: 64, Is Centroid: False
+
+Id: 1886, Community ID: 64, Is Centroid: False
+
+Id: 2144, Community ID: 64, Is Centroid: False
+
+Id: 2213, Community ID: 64, Is Centroid: False
+
+Id: 2335, Community ID: 64, Is Centroid: False
+
+Id: 4698, Community ID: 64, Is Centroid: False
+
+Id: 4701, Community ID: 64, Is Centroid: False
+
+Id: 4716, Community ID: 64, Is Centroid: False
+
+Id: 5050, Community ID: 64, Is Centroid: False
+
+Id: 5112, Community ID: 64, Is Centroid: False
+
+Id: 5232, Community ID: 64, Is Centroid: False
+
+********** Community [65] ************
+
+Id: 65, Community ID: 65, Is Centroid: False
+
+Id: 953, Community ID: 65, Is Centroid: False
+
+Id: 1806, Community ID: 65, Is Centroid: False
+
+Id: 3155, Community ID: 65, Is Centroid: True
+
+Id: 3904, Community ID: 65, Is Centroid: False
+
+Id: 5366, Community ID: 65, Is Centroid: False
+
+Id: 5782, Community ID: 65, Is Centroid: False
+
+********** Community [70] ************
+
+Id: 70, Community ID: 70, Is Centroid: True
+
+Id: 2442, Community ID: 70, Is Centroid: False
+
+Id: 3873, Community ID: 70, Is Centroid: False
+
+Id: 4068, Community ID: 70, Is Centroid: False
+
+Id: 6204, Community ID: 70, Is Centroid: False
+
+Id: 6205, Community ID: 70, Is Centroid: False
+
+********** Community [75] ************
+
+Id: 75, Community ID: 75, Is Centroid: True
+
+Id: 374, Community ID: 75, Is Centroid: False
+
+Id: 376, Community ID: 75, Is Centroid: False
+
+Id: 1507, Community ID: 75, Is Centroid: False
+
+Id: 3417, Community ID: 75, Is Centroid: False
+
+Id: 4120, Community ID: 75, Is Centroid: False
+
+Id: 5142, Community ID: 75, Is Centroid: False
+
+Id: 6232, Community ID: 75, Is Centroid: False
+
+********** Community [81] ************
+
+Id: 81, Community ID: 81, Is Centroid: False
+
+Id: 344, Community ID: 81, Is Centroid: True
+
+Id: 450, Community ID: 81, Is Centroid: False
+
+Id: 782, Community ID: 81, Is Centroid: False
+
+Id: 1687, Community ID: 81, Is Centroid: False
+
+Id: 3039, Community ID: 81, Is Centroid: False
+
+Id: 4836, Community ID: 81, Is Centroid: False
+
+Id: 4911, Community ID: 81, Is Centroid: False
+
+********** Community [86] ************
+
+Id: 86, Community ID: 86, Is Centroid: True
+
+Id: 1237, Community ID: 86, Is Centroid: False
+
+Id: 2197, Community ID: 86, Is Centroid: False
+
+Id: 2360, Community ID: 86, Is Centroid: False
+
+Id: 2591, Community ID: 86, Is Centroid: False
+
+Id: 2776, Community ID: 86, Is Centroid: False
+
+Id: 3069, Community ID: 86, Is Centroid: False
+
+Id: 3072, Community ID: 86, Is Centroid: False
+
+Id: 6382, Community ID: 86, Is Centroid: False
+
+********** Community [89] ************
+
+Id: 89, Community ID: 89, Is Centroid: False
+
+Id: 659, Community ID: 89, Is Centroid: False
+
+Id: 661, Community ID: 89, Is Centroid: False
+
+Id: 1198, Community ID: 89, Is Centroid: False
+
+Id: 1865, Community ID: 89, Is Centroid: False
+
+Id: 1948, Community ID: 89, Is Centroid: False
+
+Id: 2256, Community ID: 89, Is Centroid: False
+
+Id: 2674, Community ID: 89, Is Centroid: False
+
+Id: 3111, Community ID: 89, Is Centroid: False
+
+Id: 3129, Community ID: 89, Is Centroid: False
+
+Id: 3449, Community ID: 89, Is Centroid: True
+
+Id: 3681, Community ID: 89, Is Centroid: False
+
+Id: 3682, Community ID: 89, Is Centroid: False
+
+Id: 3932, Community ID: 89, Is Centroid: False
+
+Id: 4288, Community ID: 89, Is Centroid: False
+
+Id: 4452, Community ID: 89, Is Centroid: False
+
+Id: 5139, Community ID: 89, Is Centroid: False
+
+Id: 5630, Community ID: 89, Is Centroid: False
+
+Id: 6350, Community ID: 89, Is Centroid: False
+
+********** Community [93] ************
+
+Id: 93, Community ID: 93, Is Centroid: False
+
+Id: 1484, Community ID: 93, Is Centroid: True
+
+Id: 2572, Community ID: 93, Is Centroid: False
+
+Id: 4388, Community ID: 93, Is Centroid: False
+
+Id: 4841, Community ID: 93, Is Centroid: False
+
+Id: 6038, Community ID: 93, Is Centroid: False
+
+Id: 6416, Community ID: 93, Is Centroid: False
+
+********** Community [95] ************
+
+Id: 95, Community ID: 95, Is Centroid: True
+
+Id: 1371, Community ID: 95, Is Centroid: False
+
+Id: 3438, Community ID: 95, Is Centroid: False
+
+Id: 3699, Community ID: 95, Is Centroid: False
+
+Id: 4138, Community ID: 95, Is Centroid: False
+
+Id: 5424, Community ID: 95, Is Centroid: False
+
+Id: 5577, Community ID: 95, Is Centroid: False
+
+********** Community [96] ************
+
+Id: 96, Community ID: 96, Is Centroid: True
+
+Id: 427, Community ID: 96, Is Centroid: False
+
+Id: 1446, Community ID: 96, Is Centroid: False
+
+Id: 1621, Community ID: 96, Is Centroid: False
+
+Id: 2840, Community ID: 96, Is Centroid: False
+
+Id: 5045, Community ID: 96, Is Centroid: False
+
+Id: 5445, Community ID: 96, Is Centroid: False
+
+********** Community [97] ************
+
+Id: 97, Community ID: 97, Is Centroid: True
+
+Id: 2636, Community ID: 97, Is Centroid: False
+
+Id: 3215, Community ID: 97, Is Centroid: False
+
+Id: 3906, Community ID: 97, Is Centroid: False
+
+Id: 4590, Community ID: 97, Is Centroid: False
+
+Id: 5385, Community ID: 97, Is Centroid: False
+
+********** Community [99] ************
+
+Id: 99, Community ID: 99, Is Centroid: False
+
+Id: 183, Community ID: 99, Is Centroid: False
+
+Id: 592, Community ID: 99, Is Centroid: False
+
+Id: 1116, Community ID: 99, Is Centroid: False
+
+Id: 1425, Community ID: 99, Is Centroid: True
+
+Id: 2389, Community ID: 99, Is Centroid: False
+
+Id: 4204, Community ID: 99, Is Centroid: False
+
+Id: 5017, Community ID: 99, Is Centroid: False
+
+Id: 5615, Community ID: 99, Is Centroid: False
+
+********** Community [106] ************
+
+Id: 106, Community ID: 106, Is Centroid: False
+
+Id: 171, Community ID: 106, Is Centroid: False
+
+Id: 191, Community ID: 106, Is Centroid: False
+
+Id: 871, Community ID: 106, Is Centroid: True
+
+Id: 1581, Community ID: 106, Is Centroid: False
+
+Id: 1599, Community ID: 106, Is Centroid: False
+
+Id: 1975, Community ID: 106, Is Centroid: False
+
+Id: 2169, Community ID: 106, Is Centroid: False
+
+Id: 2406, Community ID: 106, Is Centroid: False
+
+Id: 2592, Community ID: 106, Is Centroid: False
+
+Id: 2632, Community ID: 106, Is Centroid: False
+
+Id: 3081, Community ID: 106, Is Centroid: False
+
+Id: 3513, Community ID: 106, Is Centroid: False
+
+Id: 3759, Community ID: 106, Is Centroid: False
+
+Id: 3955, Community ID: 106, Is Centroid: False
+
+Id: 4010, Community ID: 106, Is Centroid: False
+
+Id: 4321, Community ID: 106, Is Centroid: False
+
+Id: 4434, Community ID: 106, Is Centroid: False
+
+Id: 4606, Community ID: 106, Is Centroid: False
+
+Id: 5024, Community ID: 106, Is Centroid: False
+
+Id: 5711, Community ID: 106, Is Centroid: False
+
+Id: 5814, Community ID: 106, Is Centroid: False
+
+Id: 6228, Community ID: 106, Is Centroid: False
+
+********** Community [107] ************
+
+Id: 107, Community ID: 107, Is Centroid: False
+
+Id: 126, Community ID: 107, Is Centroid: False
+
+Id: 349, Community ID: 107, Is Centroid: True
+
+Id: 685, Community ID: 107, Is Centroid: False
+
+Id: 1755, Community ID: 107, Is Centroid: False
+
+Id: 2092, Community ID: 107, Is Centroid: False
+
+Id: 3300, Community ID: 107, Is Centroid: False
+
+********** Community [108] ************
+
+Id: 108, Community ID: 108, Is Centroid: False
+
+Id: 247, Community ID: 108, Is Centroid: False
+
+Id: 528, Community ID: 108, Is Centroid: False
+
+Id: 536, Community ID: 108, Is Centroid: False
+
+Id: 651, Community ID: 108, Is Centroid: False
+
+Id: 794, Community ID: 108, Is Centroid: False
+
+Id: 1092, Community ID: 108, Is Centroid: False
+
+Id: 1097, Community ID: 108, Is Centroid: False
+
+Id: 1172, Community ID: 108, Is Centroid: False
+
+Id: 1194, Community ID: 108, Is Centroid: False
+
+Id: 1403, Community ID: 108, Is Centroid: False
+
+Id: 1845, Community ID: 108, Is Centroid: False
+
+Id: 3705, Community ID: 108, Is Centroid: False
+
+Id: 4404, Community ID: 108, Is Centroid: False
+
+Id: 4545, Community ID: 108, Is Centroid: True
+
+Id: 4712, Community ID: 108, Is Centroid: False
+
+Id: 5096, Community ID: 108, Is Centroid: False
+
+********** Community [110] ************
+
+Id: 110, Community ID: 110, Is Centroid: False
+
+Id: 435, Community ID: 110, Is Centroid: False
+
+Id: 570, Community ID: 110, Is Centroid: False
+
+Id: 591, Community ID: 110, Is Centroid: False
+
+Id: 2801, Community ID: 110, Is Centroid: False
+
+Id: 3241, Community ID: 110, Is Centroid: True
+
+Id: 3290, Community ID: 110, Is Centroid: False
+
+Id: 4671, Community ID: 110, Is Centroid: False
+
+Id: 6424, Community ID: 110, Is Centroid: False
+
+********** Community [114] ************
+
+Id: 114, Community ID: 114, Is Centroid: False
+
+Id: 382, Community ID: 114, Is Centroid: True
+
+Id: 1091, Community ID: 114, Is Centroid: False
+
+Id: 1565, Community ID: 114, Is Centroid: False
+
+Id: 2137, Community ID: 114, Is Centroid: False
+
+Id: 3076, Community ID: 114, Is Centroid: False
+
+Id: 4277, Community ID: 114, Is Centroid: False
+
+Id: 5207, Community ID: 114, Is Centroid: False
+
+Id: 5929, Community ID: 114, Is Centroid: False
+
+Id: 6425, Community ID: 114, Is Centroid: False
+
+********** Community [115] ************
+
+Id: 115, Community ID: 115, Is Centroid: True
+
+Id: 798, Community ID: 115, Is Centroid: False
+
+Id: 1444, Community ID: 115, Is Centroid: False
+
+Id: 1971, Community ID: 115, Is Centroid: False
+
+Id: 3180, Community ID: 115, Is Centroid: False
+
+Id: 4057, Community ID: 115, Is Centroid: False
+
+Id: 4430, Community ID: 115, Is Centroid: False
+
+Id: 5094, Community ID: 115, Is Centroid: False
+
+Id: 6134, Community ID: 115, Is Centroid: False
+
+********** Community [118] ************
+
+Id: 118, Community ID: 118, Is Centroid: False
+
+Id: 127, Community ID: 118, Is Centroid: False
+
+Id: 2321, Community ID: 118, Is Centroid: False
+
+Id: 2343, Community ID: 118, Is Centroid: True
+
+Id: 2780, Community ID: 118, Is Centroid: False
+
+Id: 3283, Community ID: 118, Is Centroid: False
+
+Id: 3593, Community ID: 118, Is Centroid: False
+
+Id: 3987, Community ID: 118, Is Centroid: False
+
+Id: 4122, Community ID: 118, Is Centroid: False
+
+Id: 4320, Community ID: 118, Is Centroid: False
+
+********** Community [121] ************
+
+Id: 121, Community ID: 121, Is Centroid: True
+
+Id: 124, Community ID: 121, Is Centroid: False
+
+Id: 125, Community ID: 121, Is Centroid: False
+
+Id: 2048, Community ID: 121, Is Centroid: False
+
+Id: 2890, Community ID: 121, Is Centroid: False
+
+Id: 3975, Community ID: 121, Is Centroid: False
+
+Id: 4803, Community ID: 121, Is Centroid: False
+
+********** Community [123] ************
+
+Id: 123, Community ID: 123, Is Centroid: False
+
+Id: 277, Community ID: 123, Is Centroid: False
+
+Id: 929, Community ID: 123, Is Centroid: True
+
+Id: 1472, Community ID: 123, Is Centroid: False
+
+Id: 5059, Community ID: 123, Is Centroid: False
+
+Id: 5326, Community ID: 123, Is Centroid: False
+
+Id: 6194, Community ID: 123, Is Centroid: False
+
+********** Community [130] ************
+
+Id: 130, Community ID: 130, Is Centroid: False
+
+Id: 1804, Community ID: 130, Is Centroid: False
+
+Id: 1831, Community ID: 130, Is Centroid: False
+
+Id: 3492, Community ID: 130, Is Centroid: False
+
+Id: 4609, Community ID: 130, Is Centroid: False
+
+Id: 4857, Community ID: 130, Is Centroid: False
+
+Id: 5509, Community ID: 130, Is Centroid: True
+
+Id: 5847, Community ID: 130, Is Centroid: False
+
+********** Community [134] ************
+
+Id: 134, Community ID: 134, Is Centroid: True
+
+Id: 404, Community ID: 134, Is Centroid: False
+
+Id: 1128, Community ID: 134, Is Centroid: False
+
+Id: 1290, Community ID: 134, Is Centroid: False
+
+Id: 3951, Community ID: 134, Is Centroid: False
+
+Id: 4241, Community ID: 134, Is Centroid: False
+
+Id: 4367, Community ID: 134, Is Centroid: False
+
+Id: 5003, Community ID: 134, Is Centroid: False
+
+Id: 5468, Community ID: 134, Is Centroid: False
+
+Id: 6307, Community ID: 134, Is Centroid: False
+
+********** Community [138] ************
+
+Id: 138, Community ID: 138, Is Centroid: False
+
+Id: 864, Community ID: 138, Is Centroid: True
+
+Id: 1131, Community ID: 138, Is Centroid: False
+
+Id: 1293, Community ID: 138, Is Centroid: False
+
+Id: 1486, Community ID: 138, Is Centroid: False
+
+Id: 2451, Community ID: 138, Is Centroid: False
+
+Id: 2552, Community ID: 138, Is Centroid: False
+
+Id: 2562, Community ID: 138, Is Centroid: False
+
+Id: 2651, Community ID: 138, Is Centroid: False
+
+Id: 3498, Community ID: 138, Is Centroid: False
+
+Id: 3758, Community ID: 138, Is Centroid: False
+
+Id: 4000, Community ID: 138, Is Centroid: False
+
+Id: 4127, Community ID: 138, Is Centroid: False
+
+Id: 4443, Community ID: 138, Is Centroid: False
+
+Id: 4727, Community ID: 138, Is Centroid: False
+
+Id: 4863, Community ID: 138, Is Centroid: False
+
+Id: 4899, Community ID: 138, Is Centroid: False
+
+Id: 5048, Community ID: 138, Is Centroid: False
+
+Id: 5470, Community ID: 138, Is Centroid: False
+
+Id: 5487, Community ID: 138, Is Centroid: False
+
+Id: 5720, Community ID: 138, Is Centroid: False
+
+Id: 5739, Community ID: 138, Is Centroid: False
+
+Id: 6050, Community ID: 138, Is Centroid: False
+
+Id: 6051, Community ID: 138, Is Centroid: False
+
+Id: 6068, Community ID: 138, Is Centroid: False
+
+Id: 6310, Community ID: 138, Is Centroid: False
+
+********** Community [142] ************
+
+Id: 142, Community ID: 142, Is Centroid: False
+
+Id: 493, Community ID: 142, Is Centroid: False
+
+Id: 2758, Community ID: 142, Is Centroid: True
+
+Id: 2759, Community ID: 142, Is Centroid: False
+
+Id: 2798, Community ID: 142, Is Centroid: False
+
+Id: 4310, Community ID: 142, Is Centroid: False
+
+********** Community [151] ************
+
+Id: 151, Community ID: 151, Is Centroid: False
+
+Id: 666, Community ID: 151, Is Centroid: False
+
+Id: 1052, Community ID: 151, Is Centroid: False
+
+Id: 1191, Community ID: 151, Is Centroid: False
+
+Id: 1422, Community ID: 151, Is Centroid: False
+
+Id: 1441, Community ID: 151, Is Centroid: False
+
+Id: 1794, Community ID: 151, Is Centroid: False
+
+Id: 2067, Community ID: 151, Is Centroid: False
+
+Id: 2084, Community ID: 151, Is Centroid: False
+
+Id: 2744, Community ID: 151, Is Centroid: False
+
+Id: 3408, Community ID: 151, Is Centroid: False
+
+Id: 3925, Community ID: 151, Is Centroid: False
+
+Id: 4372, Community ID: 151, Is Centroid: False
+
+Id: 4496, Community ID: 151, Is Centroid: False
+
+Id: 5913, Community ID: 151, Is Centroid: True
+
+Id: 5976, Community ID: 151, Is Centroid: False
+
+Id: 6027, Community ID: 151, Is Centroid: False
+
+Id: 6075, Community ID: 151, Is Centroid: False
+
+********** Community [154] ************
+
+Id: 154, Community ID: 154, Is Centroid: False
+
+Id: 859, Community ID: 154, Is Centroid: False
+
+Id: 2399, Community ID: 154, Is Centroid: False
+
+Id: 2664, Community ID: 154, Is Centroid: False
+
+Id: 4454, Community ID: 154, Is Centroid: False
+
+Id: 4898, Community ID: 154, Is Centroid: True
+
+Id: 6066, Community ID: 154, Is Centroid: False
+
+Id: 6148, Community ID: 154, Is Centroid: False
+
+Id: 6313, Community ID: 154, Is Centroid: False
+
+********** Community [156] ************
+
+Id: 156, Community ID: 156, Is Centroid: False
+
+Id: 1437, Community ID: 156, Is Centroid: False
+
+Id: 1547, Community ID: 156, Is Centroid: False
+
+Id: 1731, Community ID: 156, Is Centroid: False
+
+Id: 2573, Community ID: 156, Is Centroid: False
+
+Id: 2797, Community ID: 156, Is Centroid: False
+
+Id: 3061, Community ID: 156, Is Centroid: False
+
+Id: 4558, Community ID: 156, Is Centroid: True
+
+Id: 4823, Community ID: 156, Is Centroid: False
+
+Id: 4984, Community ID: 156, Is Centroid: False
+
+Id: 5645, Community ID: 156, Is Centroid: False
+
+********** Community [158] ************
+
+Id: 158, Community ID: 158, Is Centroid: False
+
+Id: 619, Community ID: 158, Is Centroid: False
+
+Id: 632, Community ID: 158, Is Centroid: True
+
+Id: 967, Community ID: 158, Is Centroid: False
+
+Id: 1039, Community ID: 158, Is Centroid: False
+
+Id: 1850, Community ID: 158, Is Centroid: False
+
+Id: 1853, Community ID: 158, Is Centroid: False
+
+Id: 2081, Community ID: 158, Is Centroid: False
+
+Id: 2340, Community ID: 158, Is Centroid: False
+
+Id: 2923, Community ID: 158, Is Centroid: False
+
+Id: 3052, Community ID: 158, Is Centroid: False
+
+Id: 3652, Community ID: 158, Is Centroid: False
+
+Id: 3907, Community ID: 158, Is Centroid: False
+
+Id: 4015, Community ID: 158, Is Centroid: False
+
+Id: 4684, Community ID: 158, Is Centroid: False
+
+Id: 4801, Community ID: 158, Is Centroid: False
+
+Id: 4871, Community ID: 158, Is Centroid: False
+
+Id: 4904, Community ID: 158, Is Centroid: False
+
+Id: 5756, Community ID: 158, Is Centroid: False
+
+Id: 6168, Community ID: 158, Is Centroid: False
+
+Id: 6366, Community ID: 158, Is Centroid: False
+
+********** Community [164] ************
+
+Id: 164, Community ID: 164, Is Centroid: False
+
+Id: 184, Community ID: 164, Is Centroid: False
+
+Id: 909, Community ID: 164, Is Centroid: False
+
+Id: 1080, Community ID: 164, Is Centroid: False
+
+Id: 3084, Community ID: 164, Is Centroid: True
+
+Id: 3429, Community ID: 164, Is Centroid: False
+
+Id: 3435, Community ID: 164, Is Centroid: False
+
+Id: 4616, Community ID: 164, Is Centroid: False
+
+Id: 5709, Community ID: 164, Is Centroid: False
+
+********** Community [165] ************
+
+Id: 165, Community ID: 165, Is Centroid: False
+
+Id: 1151, Community ID: 165, Is Centroid: True
+
+Id: 1725, Community ID: 165, Is Centroid: False
+
+Id: 1785, Community ID: 165, Is Centroid: False
+
+Id: 1875, Community ID: 165, Is Centroid: False
+
+Id: 3614, Community ID: 165, Is Centroid: False
+
+Id: 3615, Community ID: 165, Is Centroid: False
+
+Id: 4561, Community ID: 165, Is Centroid: False
+
+Id: 5421, Community ID: 165, Is Centroid: False
+
+Id: 5798, Community ID: 165, Is Centroid: False
+
+********** Community [166] ************
+
+Id: 166, Community ID: 166, Is Centroid: True
+
+Id: 802, Community ID: 166, Is Centroid: False
+
+Id: 1263, Community ID: 166, Is Centroid: False
+
+Id: 1936, Community ID: 166, Is Centroid: False
+
+Id: 2857, Community ID: 166, Is Centroid: False
+
+Id: 4303, Community ID: 166, Is Centroid: False
+
+Id: 5316, Community ID: 166, Is Centroid: False
+
+********** Community [174] ************
+
+Id: 174, Community ID: 174, Is Centroid: True
+
+Id: 519, Community ID: 174, Is Centroid: False
+
+Id: 1419, Community ID: 174, Is Centroid: False
+
+Id: 4467, Community ID: 174, Is Centroid: False
+
+Id: 4601, Community ID: 174, Is Centroid: False
+
+Id: 5343, Community ID: 174, Is Centroid: False
+
+Id: 5916, Community ID: 174, Is Centroid: False
+
+********** Community [176] ************
+
+Id: 176, Community ID: 176, Is Centroid: False
+
+Id: 240, Community ID: 176, Is Centroid: False
+
+Id: 1530, Community ID: 176, Is Centroid: True
+
+Id: 1570, Community ID: 176, Is Centroid: False
+
+Id: 3088, Community ID: 176, Is Centroid: False
+
+Id: 5009, Community ID: 176, Is Centroid: False
+
+Id: 5658, Community ID: 176, Is Centroid: False
+
+********** Community [180] ************
+
+Id: 180, Community ID: 180, Is Centroid: False
+
+Id: 181, Community ID: 180, Is Centroid: False
+
+Id: 206, Community ID: 180, Is Centroid: False
+
+Id: 846, Community ID: 180, Is Centroid: False
+
+Id: 857, Community ID: 180, Is Centroid: False
+
+Id: 2102, Community ID: 180, Is Centroid: False
+
+Id: 3151, Community ID: 180, Is Centroid: True
+
+Id: 3176, Community ID: 180, Is Centroid: False
+
+Id: 4267, Community ID: 180, Is Centroid: False
+
+Id: 4811, Community ID: 180, Is Centroid: False
+
+Id: 4921, Community ID: 180, Is Centroid: False
+
+Id: 4922, Community ID: 180, Is Centroid: False
+
+Id: 5575, Community ID: 180, Is Centroid: False
+
+Id: 5652, Community ID: 180, Is Centroid: False
+
+Id: 6060, Community ID: 180, Is Centroid: False
+
+********** Community [182] ************
+
+Id: 182, Community ID: 182, Is Centroid: True
+
+Id: 207, Community ID: 182, Is Centroid: False
+
+Id: 847, Community ID: 182, Is Centroid: False
+
+Id: 858, Community ID: 182, Is Centroid: False
+
+Id: 3152, Community ID: 182, Is Centroid: False
+
+Id: 3178, Community ID: 182, Is Centroid: False
+
+Id: 4268, Community ID: 182, Is Centroid: False
+
+Id: 4812, Community ID: 182, Is Centroid: False
+
+Id: 5653, Community ID: 182, Is Centroid: False
+
+Id: 6061, Community ID: 182, Is Centroid: False
+
+********** Community [187] ************
+
+Id: 187, Community ID: 187, Is Centroid: False
+
+Id: 2152, Community ID: 187, Is Centroid: False
+
+Id: 3755, Community ID: 187, Is Centroid: True
+
+Id: 3930, Community ID: 187, Is Centroid: False
+
+Id: 4071, Community ID: 187, Is Centroid: False
+
+Id: 4915, Community ID: 187, Is Centroid: False
+
+Id: 5258, Community ID: 187, Is Centroid: False
+
+Id: 6096, Community ID: 187, Is Centroid: False
+
+********** Community [190] ************
+
+Id: 190, Community ID: 190, Is Centroid: False
+
+Id: 267, Community ID: 190, Is Centroid: False
+
+Id: 1298, Community ID: 190, Is Centroid: False
+
+Id: 1691, Community ID: 190, Is Centroid: False
+
+Id: 2012, Community ID: 190, Is Centroid: True
+
+Id: 2140, Community ID: 190, Is Centroid: False
+
+Id: 3452, Community ID: 190, Is Centroid: False
+
+Id: 4301, Community ID: 190, Is Centroid: False
+
+Id: 4410, Community ID: 190, Is Centroid: False
+
+Id: 4743, Community ID: 190, Is Centroid: False
+
+Id: 4854, Community ID: 190, Is Centroid: False
+
+Id: 5640, Community ID: 190, Is Centroid: False
+
+********** Community [192] ************
+
+Id: 192, Community ID: 192, Is Centroid: True
+
+Id: 924, Community ID: 192, Is Centroid: False
+
+Id: 1519, Community ID: 192, Is Centroid: False
+
+Id: 2703, Community ID: 192, Is Centroid: False
+
+Id: 2973, Community ID: 192, Is Centroid: False
+
+Id: 3879, Community ID: 192, Is Centroid: False
+
+Id: 3912, Community ID: 192, Is Centroid: False
+
+Id: 5367, Community ID: 192, Is Centroid: False
+
+Id: 6333, Community ID: 192, Is Centroid: False
+
+********** Community [194] ************
+
+Id: 194, Community ID: 194, Is Centroid: False
+
+Id: 3567, Community ID: 194, Is Centroid: False
+
+Id: 4026, Community ID: 194, Is Centroid: False
+
+Id: 4300, Community ID: 194, Is Centroid: True
+
+Id: 4633, Community ID: 194, Is Centroid: False
+
+Id: 6234, Community ID: 194, Is Centroid: False
+
+********** Community [195] ************
+
+Id: 195, Community ID: 195, Is Centroid: False
+
+Id: 599, Community ID: 195, Is Centroid: False
+
+Id: 2358, Community ID: 195, Is Centroid: False
+
+Id: 3397, Community ID: 195, Is Centroid: False
+
+Id: 4357, Community ID: 195, Is Centroid: False
+
+Id: 4694, Community ID: 195, Is Centroid: False
+
+Id: 4884, Community ID: 195, Is Centroid: True
+
+Id: 4931, Community ID: 195, Is Centroid: False
+
+Id: 6031, Community ID: 195, Is Centroid: False
+
+********** Community [197] ************
+
+Id: 197, Community ID: 197, Is Centroid: True
+
+Id: 260, Community ID: 197, Is Centroid: False
+
+Id: 2448, Community ID: 197, Is Centroid: False
+
+Id: 2452, Community ID: 197, Is Centroid: False
+
+Id: 3350, Community ID: 197, Is Centroid: False
+
+Id: 6432, Community ID: 197, Is Centroid: False
+
+********** Community [199] ************
+
+Id: 199, Community ID: 199, Is Centroid: True
+
+Id: 1001, Community ID: 199, Is Centroid: False
+
+Id: 1481, Community ID: 199, Is Centroid: False
+
+Id: 1619, Community ID: 199, Is Centroid: False
+
+Id: 2630, Community ID: 199, Is Centroid: False
+
+Id: 3047, Community ID: 199, Is Centroid: False
+
+Id: 3246, Community ID: 199, Is Centroid: False
+
+Id: 4166, Community ID: 199, Is Centroid: False
+
+Id: 4426, Community ID: 199, Is Centroid: False
+
+Id: 5478, Community ID: 199, Is Centroid: False
+
+Id: 6014, Community ID: 199, Is Centroid: False
+
+Id: 6345, Community ID: 199, Is Centroid: False
+
+Id: 6446, Community ID: 199, Is Centroid: False
+
+********** Community [202] ************
+
+Id: 202, Community ID: 202, Is Centroid: False
+
+Id: 702, Community ID: 202, Is Centroid: False
+
+Id: 4406, Community ID: 202, Is Centroid: False
+
+Id: 4887, Community ID: 202, Is Centroid: False
+
+Id: 4953, Community ID: 202, Is Centroid: True
+
+Id: 5848, Community ID: 202, Is Centroid: False
+
+Id: 5963, Community ID: 202, Is Centroid: False
+
+********** Community [209] ************
+
+Id: 209, Community ID: 209, Is Centroid: False
+
+Id: 845, Community ID: 209, Is Centroid: True
+
+Id: 1391, Community ID: 209, Is Centroid: False
+
+Id: 3121, Community ID: 209, Is Centroid: False
+
+Id: 5570, Community ID: 209, Is Centroid: False
+
+Id: 5787, Community ID: 209, Is Centroid: False
+
+********** Community [210] ************
+
+Id: 210, Community ID: 210, Is Centroid: False
+
+Id: 389, Community ID: 210, Is Centroid: False
+
+Id: 2160, Community ID: 210, Is Centroid: True
+
+Id: 2210, Community ID: 210, Is Centroid: False
+
+Id: 2393, Community ID: 210, Is Centroid: False
+
+Id: 2966, Community ID: 210, Is Centroid: False
+
+Id: 3133, Community ID: 210, Is Centroid: False
+
+Id: 5091, Community ID: 210, Is Centroid: False
+
+Id: 5404, Community ID: 210, Is Centroid: False
+
+********** Community [219] ************
+
+Id: 219, Community ID: 219, Is Centroid: False
+
+Id: 828, Community ID: 219, Is Centroid: False
+
+Id: 1342, Community ID: 219, Is Centroid: False
+
+Id: 2805, Community ID: 219, Is Centroid: False
+
+Id: 4142, Community ID: 219, Is Centroid: True
+
+Id: 4873, Community ID: 219, Is Centroid: False
+
+Id: 5229, Community ID: 219, Is Centroid: False
+
+Id: 5572, Community ID: 219, Is Centroid: False
+
+Id: 5646, Community ID: 219, Is Centroid: False
+
+********** Community [220] ************
+
+Id: 220, Community ID: 220, Is Centroid: False
+
+Id: 1931, Community ID: 220, Is Centroid: False
+
+Id: 3404, Community ID: 220, Is Centroid: False
+
+Id: 4200, Community ID: 220, Is Centroid: False
+
+Id: 4987, Community ID: 220, Is Centroid: True
+
+Id: 4988, Community ID: 220, Is Centroid: False
+
+Id: 4989, Community ID: 220, Is Centroid: False
+
+Id: 4990, Community ID: 220, Is Centroid: False
+
+********** Community [221] ************
+
+Id: 221, Community ID: 221, Is Centroid: False
+
+Id: 302, Community ID: 221, Is Centroid: False
+
+Id: 1797, Community ID: 221, Is Centroid: False
+
+Id: 2027, Community ID: 221, Is Centroid: True
+
+Id: 3603, Community ID: 221, Is Centroid: False
+
+Id: 3604, Community ID: 221, Is Centroid: False
+
+Id: 4058, Community ID: 221, Is Centroid: False
+
+Id: 4858, Community ID: 221, Is Centroid: False
+
+Id: 5364, Community ID: 221, Is Centroid: False
+
+********** Community [222] ************
+
+Id: 222, Community ID: 222, Is Centroid: False
+
+Id: 1252, Community ID: 222, Is Centroid: True
+
+Id: 2116, Community ID: 222, Is Centroid: False
+
+Id: 4305, Community ID: 222, Is Centroid: False
+
+Id: 4756, Community ID: 222, Is Centroid: False
+
+Id: 4828, Community ID: 222, Is Centroid: False
+
+Id: 5098, Community ID: 222, Is Centroid: False
+
+********** Community [225] ************
+
+Id: 225, Community ID: 225, Is Centroid: True
+
+Id: 640, Community ID: 225, Is Centroid: False
+
+Id: 1072, Community ID: 225, Is Centroid: False
+
+Id: 1180, Community ID: 225, Is Centroid: False
+
+Id: 1916, Community ID: 225, Is Centroid: False
+
+Id: 5052, Community ID: 225, Is Centroid: False
+
+Id: 5079, Community ID: 225, Is Centroid: False
+
+Id: 5369, Community ID: 225, Is Centroid: False
+
+********** Community [231] ************
+
+Id: 231, Community ID: 231, Is Centroid: True
+
+Id: 310, Community ID: 231, Is Centroid: False
+
+Id: 792, Community ID: 231, Is Centroid: False
+
+Id: 3741, Community ID: 231, Is Centroid: False
+
+Id: 4022, Community ID: 231, Is Centroid: False
+
+Id: 5129, Community ID: 231, Is Centroid: False
+
+********** Community [232] ************
+
+Id: 232, Community ID: 232, Is Centroid: True
+
+Id: 350, Community ID: 232, Is Centroid: False
+
+Id: 885, Community ID: 232, Is Centroid: False
+
+Id: 1043, Community ID: 232, Is Centroid: False
+
+Id: 1094, Community ID: 232, Is Centroid: False
+
+Id: 1528, Community ID: 232, Is Centroid: False
+
+Id: 1757, Community ID: 232, Is Centroid: False
+
+Id: 2302, Community ID: 232, Is Centroid: False
+
+Id: 2631, Community ID: 232, Is Centroid: False
+
+Id: 2656, Community ID: 232, Is Centroid: False
+
+Id: 4242, Community ID: 232, Is Centroid: False
+
+Id: 4885, Community ID: 232, Is Centroid: False
+
+Id: 5255, Community ID: 232, Is Centroid: False
+
+Id: 5700, Community ID: 232, Is Centroid: False
+
+Id: 6439, Community ID: 232, Is Centroid: False
+
+********** Community [241] ************
+
+Id: 241, Community ID: 241, Is Centroid: False
+
+Id: 242, Community ID: 241, Is Centroid: False
+
+Id: 243, Community ID: 241, Is Centroid: True
+
+Id: 1800, Community ID: 241, Is Centroid: False
+
+Id: 2500, Community ID: 241, Is Centroid: False
+
+Id: 3288, Community ID: 241, Is Centroid: False
+
+Id: 3966, Community ID: 241, Is Centroid: False
+
+Id: 4084, Community ID: 241, Is Centroid: False
+
+Id: 4095, Community ID: 241, Is Centroid: False
+
+********** Community [248] ************
+
+Id: 248, Community ID: 248, Is Centroid: False
+
+Id: 383, Community ID: 248, Is Centroid: False
+
+Id: 2682, Community ID: 248, Is Centroid: True
+
+Id: 2846, Community ID: 248, Is Centroid: False
+
+Id: 4107, Community ID: 248, Is Centroid: False
+
+Id: 4387, Community ID: 248, Is Centroid: False
+
+Id: 5231, Community ID: 248, Is Centroid: False
+
+Id: 6054, Community ID: 248, Is Centroid: False
+
+********** Community [251] ************
+
+Id: 251, Community ID: 251, Is Centroid: False
+
+Id: 1139, Community ID: 251, Is Centroid: False
+
+Id: 1676, Community ID: 251, Is Centroid: False
+
+Id: 1719, Community ID: 251, Is Centroid: False
+
+Id: 1821, Community ID: 251, Is Centroid: False
+
+Id: 2142, Community ID: 251, Is Centroid: False
+
+Id: 2493, Community ID: 251, Is Centroid: False
+
+Id: 2584, Community ID: 251, Is Centroid: False
+
+Id: 2625, Community ID: 251, Is Centroid: False
+
+Id: 3358, Community ID: 251, Is Centroid: False
+
+Id: 3439, Community ID: 251, Is Centroid: False
+
+Id: 3620, Community ID: 251, Is Centroid: False
+
+Id: 3655, Community ID: 251, Is Centroid: False
+
+Id: 3961, Community ID: 251, Is Centroid: False
+
+Id: 4074, Community ID: 251, Is Centroid: False
+
+Id: 4346, Community ID: 251, Is Centroid: False
+
+Id: 4440, Community ID: 251, Is Centroid: False
+
+Id: 5214, Community ID: 251, Is Centroid: False
+
+Id: 5386, Community ID: 251, Is Centroid: False
+
+Id: 5663, Community ID: 251, Is Centroid: False
+
+Id: 5664, Community ID: 251, Is Centroid: True
+
+Id: 5792, Community ID: 251, Is Centroid: False
+
+Id: 6146, Community ID: 251, Is Centroid: False
+
+********** Community [252] ************
+
+Id: 252, Community ID: 252, Is Centroid: False
+
+Id: 1852, Community ID: 252, Is Centroid: False
+
+Id: 2585, Community ID: 252, Is Centroid: False
+
+Id: 2707, Community ID: 252, Is Centroid: True
+
+Id: 2740, Community ID: 252, Is Centroid: False
+
+Id: 3605, Community ID: 252, Is Centroid: False
+
+Id: 3920, Community ID: 252, Is Centroid: False
+
+Id: 6049, Community ID: 252, Is Centroid: False
+
+********** Community [254] ************
+
+Id: 254, Community ID: 254, Is Centroid: True
+
+Id: 995, Community ID: 254, Is Centroid: False
+
+Id: 2065, Community ID: 254, Is Centroid: False
+
+Id: 2710, Community ID: 254, Is Centroid: False
+
+Id: 4785, Community ID: 254, Is Centroid: False
+
+Id: 5845, Community ID: 254, Is Centroid: False
+
+********** Community [257] ************
+
+Id: 257, Community ID: 257, Is Centroid: False
+
+Id: 258, Community ID: 257, Is Centroid: False
+
+Id: 1027, Community ID: 257, Is Centroid: False
+
+Id: 1184, Community ID: 257, Is Centroid: True
+
+Id: 2103, Community ID: 257, Is Centroid: False
+
+Id: 2626, Community ID: 257, Is Centroid: False
+
+Id: 3537, Community ID: 257, Is Centroid: False
+
+Id: 4340, Community ID: 257, Is Centroid: False
+
+Id: 4752, Community ID: 257, Is Centroid: False
+
+********** Community [273] ************
+
+Id: 273, Community ID: 273, Is Centroid: False
+
+Id: 1498, Community ID: 273, Is Centroid: False
+
+Id: 2465, Community ID: 273, Is Centroid: False
+
+Id: 3214, Community ID: 273, Is Centroid: False
+
+Id: 3919, Community ID: 273, Is Centroid: True
+
+Id: 5113, Community ID: 273, Is Centroid: False
+
+Id: 6241, Community ID: 273, Is Centroid: False
+
+Id: 6269, Community ID: 273, Is Centroid: False
+
+Id: 6286, Community ID: 273, Is Centroid: False
+
+********** Community [274] ************
+
+Id: 274, Community ID: 274, Is Centroid: False
+
+Id: 672, Community ID: 274, Is Centroid: False
+
+Id: 2159, Community ID: 274, Is Centroid: False
+
+Id: 2273, Community ID: 274, Is Centroid: False
+
+Id: 2544, Community ID: 274, Is Centroid: True
+
+Id: 3428, Community ID: 274, Is Centroid: False
+
+Id: 3989, Community ID: 274, Is Centroid: False
+
+Id: 4171, Community ID: 274, Is Centroid: False
+
+Id: 4210, Community ID: 274, Is Centroid: False
+
+Id: 4398, Community ID: 274, Is Centroid: False
+
+Id: 4860, Community ID: 274, Is Centroid: False
+
+Id: 5013, Community ID: 274, Is Centroid: False
+
+Id: 5616, Community ID: 274, Is Centroid: False
+
+********** Community [275] ************
+
+Id: 275, Community ID: 275, Is Centroid: False
+
+Id: 489, Community ID: 275, Is Centroid: False
+
+Id: 684, Community ID: 275, Is Centroid: False
+
+Id: 1881, Community ID: 275, Is Centroid: True
+
+Id: 3697, Community ID: 275, Is Centroid: False
+
+Id: 5138, Community ID: 275, Is Centroid: False
+
+Id: 5491, Community ID: 275, Is Centroid: False
+
+Id: 5657, Community ID: 275, Is Centroid: False
+
+Id: 5719, Community ID: 275, Is Centroid: False
+
+Id: 5876, Community ID: 275, Is Centroid: False
+
+Id: 6242, Community ID: 275, Is Centroid: False
+
+********** Community [276] ************
+
+Id: 276, Community ID: 276, Is Centroid: True
+
+Id: 2277, Community ID: 276, Is Centroid: False
+
+Id: 3991, Community ID: 276, Is Centroid: False
+
+Id: 4401, Community ID: 276, Is Centroid: False
+
+Id: 4864, Community ID: 276, Is Centroid: False
+
+Id: 5016, Community ID: 276, Is Centroid: False
+
+Id: 5251, Community ID: 276, Is Centroid: False
+
+********** Community [279] ************
+
+Id: 279, Community ID: 279, Is Centroid: False
+
+Id: 1065, Community ID: 279, Is Centroid: False
+
+Id: 1100, Community ID: 279, Is Centroid: False
+
+Id: 5428, Community ID: 279, Is Centroid: False
+
+Id: 6253, Community ID: 279, Is Centroid: True
+
+Id: 6254, Community ID: 279, Is Centroid: False
+
+Id: 6255, Community ID: 279, Is Centroid: False
+
+********** Community [280] ************
+
+Id: 280, Community ID: 280, Is Centroid: False
+
+Id: 281, Community ID: 280, Is Centroid: False
+
+Id: 1038, Community ID: 280, Is Centroid: False
+
+Id: 1304, Community ID: 280, Is Centroid: False
+
+Id: 1525, Community ID: 280, Is Centroid: False
+
+Id: 1730, Community ID: 280, Is Centroid: True
+
+Id: 1735, Community ID: 280, Is Centroid: False
+
+Id: 3313, Community ID: 280, Is Centroid: False
+
+Id: 5345, Community ID: 280, Is Centroid: False
+
+Id: 5347, Community ID: 280, Is Centroid: False
+
+Id: 5788, Community ID: 280, Is Centroid: False
+
+Id: 5805, Community ID: 280, Is Centroid: False
+
+********** Community [284] ************
+
+Id: 284, Community ID: 284, Is Centroid: True
+
+Id: 595, Community ID: 284, Is Centroid: False
+
+Id: 1467, Community ID: 284, Is Centroid: False
+
+Id: 3868, Community ID: 284, Is Centroid: False
+
+Id: 4427, Community ID: 284, Is Centroid: False
+
+Id: 5317, Community ID: 284, Is Centroid: False
+
+********** Community [289] ************
+
+Id: 289, Community ID: 289, Is Centroid: False
+
+Id: 1836, Community ID: 289, Is Centroid: False
+
+Id: 1910, Community ID: 289, Is Centroid: False
+
+Id: 2885, Community ID: 289, Is Centroid: False
+
+Id: 4018, Community ID: 289, Is Centroid: True
+
+Id: 4465, Community ID: 289, Is Centroid: False
+
+Id: 5334, Community ID: 289, Is Centroid: False
+
+Id: 6420, Community ID: 289, Is Centroid: False
+
+********** Community [293] ************
+
+Id: 293, Community ID: 293, Is Centroid: False
+
+Id: 392, Community ID: 293, Is Centroid: False
+
+Id: 2188, Community ID: 293, Is Centroid: True
+
+Id: 2436, Community ID: 293, Is Centroid: False
+
+Id: 2964, Community ID: 293, Is Centroid: False
+
+Id: 4965, Community ID: 293, Is Centroid: False
+
+********** Community [296] ************
+
+Id: 296, Community ID: 296, Is Centroid: False
+
+Id: 297, Community ID: 296, Is Centroid: False
+
+Id: 298, Community ID: 296, Is Centroid: False
+
+Id: 736, Community ID: 296, Is Centroid: False
+
+Id: 803, Community ID: 296, Is Centroid: False
+
+Id: 1306, Community ID: 296, Is Centroid: False
+
+Id: 1499, Community ID: 296, Is Centroid: False
+
+Id: 5064, Community ID: 296, Is Centroid: True
+
+Id: 5529, Community ID: 296, Is Centroid: False
+
+********** Community [308] ************
+
+Id: 308, Community ID: 308, Is Centroid: False
+
+Id: 1504, Community ID: 308, Is Centroid: False
+
+Id: 1652, Community ID: 308, Is Centroid: True
+
+Id: 1784, Community ID: 308, Is Centroid: False
+
+Id: 3162, Community ID: 308, Is Centroid: False
+
+Id: 5397, Community ID: 308, Is Centroid: False
+
+Id: 5420, Community ID: 308, Is Centroid: False
+
+********** Community [323] ************
+
+Id: 323, Community ID: 323, Is Centroid: False
+
+Id: 1818, Community ID: 323, Is Centroid: False
+
+Id: 2422, Community ID: 323, Is Centroid: False
+
+Id: 2506, Community ID: 323, Is Centroid: True
+
+Id: 2731, Community ID: 323, Is Centroid: False
+
+Id: 3245, Community ID: 323, Is Centroid: False
+
+Id: 4045, Community ID: 323, Is Centroid: False
+
+Id: 5099, Community ID: 323, Is Centroid: False
+
+Id: 6072, Community ID: 323, Is Centroid: False
+
+Id: 6084, Community ID: 323, Is Centroid: False
+
+********** Community [331] ************
+
+Id: 331, Community ID: 331, Is Centroid: False
+
+Id: 704, Community ID: 331, Is Centroid: False
+
+Id: 969, Community ID: 331, Is Centroid: True
+
+Id: 1660, Community ID: 331, Is Centroid: False
+
+Id: 1715, Community ID: 331, Is Centroid: False
+
+Id: 2629, Community ID: 331, Is Centroid: False
+
+Id: 5694, Community ID: 331, Is Centroid: False
+
+********** Community [340] ************
+
+Id: 340, Community ID: 340, Is Centroid: False
+
+Id: 991, Community ID: 340, Is Centroid: False
+
+Id: 2582, Community ID: 340, Is Centroid: False
+
+Id: 3055, Community ID: 340, Is Centroid: False
+
+Id: 3307, Community ID: 340, Is Centroid: False
+
+Id: 4197, Community ID: 340, Is Centroid: False
+
+Id: 5165, Community ID: 340, Is Centroid: True
+
+Id: 5583, Community ID: 340, Is Centroid: False
+
+Id: 6216, Community ID: 340, Is Centroid: False
+
+********** Community [347] ************
+
+Id: 347, Community ID: 347, Is Centroid: False
+
+Id: 348, Community ID: 347, Is Centroid: False
+
+Id: 2112, Community ID: 347, Is Centroid: False
+
+Id: 2113, Community ID: 347, Is Centroid: True
+
+Id: 2114, Community ID: 347, Is Centroid: False
+
+Id: 2314, Community ID: 347, Is Centroid: False
+
+Id: 2379, Community ID: 347, Is Centroid: False
+
+Id: 2518, Community ID: 347, Is Centroid: False
+
+Id: 3466, Community ID: 347, Is Centroid: False
+
+Id: 3467, Community ID: 347, Is Centroid: False
+
+Id: 3938, Community ID: 347, Is Centroid: False
+
+Id: 5265, Community ID: 347, Is Centroid: False
+
+Id: 6387, Community ID: 347, Is Centroid: False
+
+********** Community [353] ************
+
+Id: 353, Community ID: 353, Is Centroid: True
+
+Id: 633, Community ID: 353, Is Centroid: False
+
+Id: 895, Community ID: 353, Is Centroid: False
+
+Id: 1477, Community ID: 353, Is Centroid: False
+
+Id: 2831, Community ID: 353, Is Centroid: False
+
+Id: 2832, Community ID: 353, Is Centroid: False
+
+Id: 4623, Community ID: 353, Is Centroid: False
+
+Id: 4888, Community ID: 353, Is Centroid: False
+
+Id: 4972, Community ID: 353, Is Centroid: False
+
+Id: 5327, Community ID: 353, Is Centroid: False
+
+Id: 5403, Community ID: 353, Is Centroid: False
+
+Id: 5563, Community ID: 353, Is Centroid: False
+
+Id: 5965, Community ID: 353, Is Centroid: False
+
+********** Community [362] ************
+
+Id: 362, Community ID: 362, Is Centroid: False
+
+Id: 764, Community ID: 362, Is Centroid: True
+
+Id: 1493, Community ID: 362, Is Centroid: False
+
+Id: 1983, Community ID: 362, Is Centroid: False
+
+Id: 3456, Community ID: 362, Is Centroid: False
+
+Id: 4525, Community ID: 362, Is Centroid: False
+
+********** Community [364] ************
+
+Id: 364, Community ID: 364, Is Centroid: True
+
+Id: 562, Community ID: 364, Is Centroid: False
+
+Id: 1424, Community ID: 364, Is Centroid: False
+
+Id: 4689, Community ID: 364, Is Centroid: False
+
+Id: 4730, Community ID: 364, Is Centroid: False
+
+Id: 5493, Community ID: 364, Is Centroid: False
+
+Id: 6131, Community ID: 364, Is Centroid: False
+
+********** Community [367] ************
+
+Id: 367, Community ID: 367, Is Centroid: False
+
+Id: 442, Community ID: 367, Is Centroid: True
+
+Id: 483, Community ID: 367, Is Centroid: False
+
+Id: 2487, Community ID: 367, Is Centroid: False
+
+Id: 2962, Community ID: 367, Is Centroid: False
+
+Id: 3278, Community ID: 367, Is Centroid: False
+
+Id: 5035, Community ID: 367, Is Centroid: False
+
+Id: 5217, Community ID: 367, Is Centroid: False
+
+Id: 5304, Community ID: 367, Is Centroid: False
+
+Id: 5683, Community ID: 367, Is Centroid: False
+
+Id: 6362, Community ID: 367, Is Centroid: False
+
+Id: 6435, Community ID: 367, Is Centroid: False
+
+********** Community [385] ************
+
+Id: 385, Community ID: 385, Is Centroid: False
+
+Id: 553, Community ID: 385, Is Centroid: False
+
+Id: 608, Community ID: 385, Is Centroid: False
+
+Id: 642, Community ID: 385, Is Centroid: False
+
+Id: 1622, Community ID: 385, Is Centroid: False
+
+Id: 1849, Community ID: 385, Is Centroid: False
+
+Id: 2168, Community ID: 385, Is Centroid: False
+
+Id: 2600, Community ID: 385, Is Centroid: False
+
+Id: 2622, Community ID: 385, Is Centroid: False
+
+Id: 2652, Community ID: 385, Is Centroid: False
+
+Id: 2662, Community ID: 385, Is Centroid: False
+
+Id: 2847, Community ID: 385, Is Centroid: False
+
+Id: 3672, Community ID: 385, Is Centroid: False
+
+Id: 3864, Community ID: 385, Is Centroid: False
+
+Id: 4256, Community ID: 385, Is Centroid: False
+
+Id: 4453, Community ID: 385, Is Centroid: False
+
+Id: 5241, Community ID: 385, Is Centroid: True
+
+Id: 5410, Community ID: 385, Is Centroid: False
+
+Id: 6207, Community ID: 385, Is Centroid: False
+
+Id: 6224, Community ID: 385, Is Centroid: False
+
+Id: 6336, Community ID: 385, Is Centroid: False
+
+********** Community [386] ************
+
+Id: 386, Community ID: 386, Is Centroid: False
+
+Id: 586, Community ID: 386, Is Centroid: True
+
+Id: 2342, Community ID: 386, Is Centroid: False
+
+Id: 3182, Community ID: 386, Is Centroid: False
+
+Id: 3248, Community ID: 386, Is Centroid: False
+
+Id: 4269, Community ID: 386, Is Centroid: False
+
+Id: 4523, Community ID: 386, Is Centroid: False
+
+Id: 5080, Community ID: 386, Is Centroid: False
+
+Id: 5784, Community ID: 386, Is Centroid: False
+
+Id: 6137, Community ID: 386, Is Centroid: False
+
+********** Community [394] ************
+
+Id: 394, Community ID: 394, Is Centroid: False
+
+Id: 1781, Community ID: 394, Is Centroid: False
+
+Id: 2165, Community ID: 394, Is Centroid: True
+
+Id: 2517, Community ID: 394, Is Centroid: False
+
+Id: 4091, Community ID: 394, Is Centroid: False
+
+Id: 5604, Community ID: 394, Is Centroid: False
+
+Id: 5605, Community ID: 394, Is Centroid: False
+
+Id: 6349, Community ID: 394, Is Centroid: False
+
+********** Community [395] ************
+
+Id: 395, Community ID: 395, Is Centroid: False
+
+Id: 398, Community ID: 395, Is Centroid: False
+
+Id: 1125, Community ID: 395, Is Centroid: False
+
+Id: 1365, Community ID: 395, Is Centroid: False
+
+Id: 4314, Community ID: 395, Is Centroid: True
+
+Id: 4315, Community ID: 395, Is Centroid: False
+
+Id: 4316, Community ID: 395, Is Centroid: False
+
+Id: 4317, Community ID: 395, Is Centroid: False
+
+Id: 4775, Community ID: 395, Is Centroid: False
+
+Id: 4876, Community ID: 395, Is Centroid: False
+
+********** Community [405] ************
+
+Id: 405, Community ID: 405, Is Centroid: True
+
+Id: 523, Community ID: 405, Is Centroid: False
+
+Id: 547, Community ID: 405, Is Centroid: False
+
+Id: 862, Community ID: 405, Is Centroid: False
+
+Id: 1129, Community ID: 405, Is Centroid: False
+
+Id: 1291, Community ID: 405, Is Centroid: False
+
+Id: 1348, Community ID: 405, Is Centroid: False
+
+Id: 2450, Community ID: 405, Is Centroid: False
+
+Id: 2551, Community ID: 405, Is Centroid: False
+
+Id: 2559, Community ID: 405, Is Centroid: False
+
+Id: 2729, Community ID: 405, Is Centroid: False
+
+Id: 3998, Community ID: 405, Is Centroid: False
+
+Id: 4290, Community ID: 405, Is Centroid: False
+
+Id: 4368, Community ID: 405, Is Centroid: False
+
+Id: 4399, Community ID: 405, Is Centroid: False
+
+Id: 4442, Community ID: 405, Is Centroid: False
+
+Id: 4862, Community ID: 405, Is Centroid: False
+
+Id: 5047, Community ID: 405, Is Centroid: False
+
+Id: 5296, Community ID: 405, Is Centroid: False
+
+Id: 5486, Community ID: 405, Is Centroid: False
+
+Id: 5717, Community ID: 405, Is Centroid: False
+
+Id: 5738, Community ID: 405, Is Centroid: False
+
+Id: 5875, Community ID: 405, Is Centroid: False
+
+Id: 6067, Community ID: 405, Is Centroid: False
+
+Id: 6302, Community ID: 405, Is Centroid: False
+
+Id: 6308, Community ID: 405, Is Centroid: False
+
+********** Community [406] ************
+
+Id: 406, Community ID: 406, Is Centroid: True
+
+Id: 524, Community ID: 406, Is Centroid: False
+
+Id: 1350, Community ID: 406, Is Centroid: False
+
+Id: 1366, Community ID: 406, Is Centroid: False
+
+Id: 1893, Community ID: 406, Is Centroid: False
+
+Id: 2041, Community ID: 406, Is Centroid: False
+
+Id: 3751, Community ID: 406, Is Centroid: False
+
+Id: 3837, Community ID: 406, Is Centroid: False
+
+Id: 3890, Community ID: 406, Is Centroid: False
+
+Id: 3990, Community ID: 406, Is Centroid: False
+
+Id: 4291, Community ID: 406, Is Centroid: False
+
+Id: 4400, Community ID: 406, Is Centroid: False
+
+Id: 4455, Community ID: 406, Is Centroid: False
+
+Id: 5297, Community ID: 406, Is Centroid: False
+
+Id: 5312, Community ID: 406, Is Centroid: False
+
+Id: 5979, Community ID: 406, Is Centroid: False
+
+Id: 6303, Community ID: 406, Is Centroid: False
+
+********** Community [410] ************
+
+Id: 410, Community ID: 410, Is Centroid: False
+
+Id: 1343, Community ID: 410, Is Centroid: True
+
+Id: 2156, Community ID: 410, Is Centroid: False
+
+Id: 2196, Community ID: 410, Is Centroid: False
+
+Id: 2408, Community ID: 410, Is Centroid: False
+
+Id: 3969, Community ID: 410, Is Centroid: False
+
+Id: 5837, Community ID: 410, Is Centroid: False
+
+Id: 6311, Community ID: 410, Is Centroid: False
+
+********** Community [411] ************
+
+Id: 411, Community ID: 411, Is Centroid: False
+
+Id: 1014, Community ID: 411, Is Centroid: False
+
+Id: 1420, Community ID: 411, Is Centroid: False
+
+Id: 2260, Community ID: 411, Is Centroid: False
+
+Id: 2424, Community ID: 411, Is Centroid: False
+
+Id: 2785, Community ID: 411, Is Centroid: False
+
+Id: 3354, Community ID: 411, Is Centroid: False
+
+Id: 4237, Community ID: 411, Is Centroid: True
+
+Id: 5880, Community ID: 411, Is Centroid: False
+
+********** Community [420] ************
+
+Id: 420, Community ID: 420, Is Centroid: False
+
+Id: 907, Community ID: 420, Is Centroid: False
+
+Id: 1152, Community ID: 420, Is Centroid: False
+
+Id: 1423, Community ID: 420, Is Centroid: True
+
+Id: 2637, Community ID: 420, Is Centroid: False
+
+Id: 3431, Community ID: 420, Is Centroid: False
+
+Id: 5465, Community ID: 420, Is Centroid: False
+
+Id: 5665, Community ID: 420, Is Centroid: False
+
+********** Community [424] ************
+
+Id: 424, Community ID: 424, Is Centroid: False
+
+Id: 1011, Community ID: 424, Is Centroid: False
+
+Id: 1062, Community ID: 424, Is Centroid: False
+
+Id: 1063, Community ID: 424, Is Centroid: False
+
+Id: 1224, Community ID: 424, Is Centroid: False
+
+Id: 1908, Community ID: 424, Is Centroid: False
+
+Id: 3015, Community ID: 424, Is Centroid: False
+
+Id: 3765, Community ID: 424, Is Centroid: False
+
+Id: 4318, Community ID: 424, Is Centroid: False
+
+Id: 4935, Community ID: 424, Is Centroid: True
+
+********** Community [425] ************
+
+Id: 425, Community ID: 425, Is Centroid: False
+
+Id: 3642, Community ID: 425, Is Centroid: True
+
+Id: 4047, Community ID: 425, Is Centroid: False
+
+Id: 4934, Community ID: 425, Is Centroid: False
+
+Id: 5233, Community ID: 425, Is Centroid: False
+
+Id: 6147, Community ID: 425, Is Centroid: False
+
+********** Community [431] ************
+
+Id: 431, Community ID: 431, Is Centroid: False
+
+Id: 726, Community ID: 431, Is Centroid: True
+
+Id: 730, Community ID: 431, Is Centroid: False
+
+Id: 821, Community ID: 431, Is Centroid: False
+
+Id: 2750, Community ID: 431, Is Centroid: False
+
+Id: 5157, Community ID: 431, Is Centroid: False
+
+Id: 6156, Community ID: 431, Is Centroid: False
+
+********** Community [432] ************
+
+Id: 432, Community ID: 432, Is Centroid: True
+
+Id: 2280, Community ID: 432, Is Centroid: False
+
+Id: 2643, Community ID: 432, Is Centroid: False
+
+Id: 3402, Community ID: 432, Is Centroid: False
+
+Id: 3570, Community ID: 432, Is Centroid: False
+
+Id: 4425, Community ID: 432, Is Centroid: False
+
+Id: 4738, Community ID: 432, Is Centroid: False
+
+Id: 4764, Community ID: 432, Is Centroid: False
+
+Id: 4824, Community ID: 432, Is Centroid: False
+
+Id: 5475, Community ID: 432, Is Centroid: False
+
+********** Community [436] ************
+
+Id: 436, Community ID: 436, Is Centroid: False
+
+Id: 990, Community ID: 436, Is Centroid: True
+
+Id: 2225, Community ID: 436, Is Centroid: False
+
+Id: 2974, Community ID: 436, Is Centroid: False
+
+Id: 4143, Community ID: 436, Is Centroid: False
+
+Id: 4699, Community ID: 436, Is Centroid: False
+
+Id: 6248, Community ID: 436, Is Centroid: False
+
+********** Community [440] ************
+
+Id: 440, Community ID: 440, Is Centroid: False
+
+Id: 751, Community ID: 440, Is Centroid: True
+
+Id: 1834, Community ID: 440, Is Centroid: False
+
+Id: 1998, Community ID: 440, Is Centroid: False
+
+Id: 3736, Community ID: 440, Is Centroid: False
+
+Id: 4463, Community ID: 440, Is Centroid: False
+
+Id: 5997, Community ID: 440, Is Centroid: False
+
+********** Community [441] ************
+
+Id: 441, Community ID: 441, Is Centroid: True
+
+Id: 2843, Community ID: 441, Is Centroid: False
+
+Id: 2844, Community ID: 441, Is Centroid: False
+
+Id: 2845, Community ID: 441, Is Centroid: False
+
+Id: 3026, Community ID: 441, Is Centroid: False
+
+Id: 3766, Community ID: 441, Is Centroid: False
+
+Id: 4582, Community ID: 441, Is Centroid: False
+
+Id: 5496, Community ID: 441, Is Centroid: False
+
+********** Community [447] ************
+
+Id: 447, Community ID: 447, Is Centroid: True
+
+Id: 1540, Community ID: 447, Is Centroid: False
+
+Id: 1866, Community ID: 447, Is Centroid: False
+
+Id: 1867, Community ID: 447, Is Centroid: False
+
+Id: 2034, Community ID: 447, Is Centroid: False
+
+Id: 3191, Community ID: 447, Is Centroid: False
+
+Id: 4019, Community ID: 447, Is Centroid: False
+
+Id: 5721, Community ID: 447, Is Centroid: False
+
+********** Community [448] ************
+
+Id: 448, Community ID: 448, Is Centroid: False
+
+Id: 1019, Community ID: 448, Is Centroid: False
+
+Id: 4101, Community ID: 448, Is Centroid: False
+
+Id: 4528, Community ID: 448, Is Centroid: False
+
+Id: 5137, Community ID: 448, Is Centroid: True
+
+Id: 5239, Community ID: 448, Is Centroid: False
+
+Id: 5635, Community ID: 448, Is Centroid: False
+
+********** Community [459] ************
+
+Id: 459, Community ID: 459, Is Centroid: False
+
+Id: 1418, Community ID: 459, Is Centroid: False
+
+Id: 3170, Community ID: 459, Is Centroid: False
+
+Id: 3193, Community ID: 459, Is Centroid: True
+
+Id: 3649, Community ID: 459, Is Centroid: False
+
+Id: 3669, Community ID: 459, Is Centroid: False
+
+********** Community [471] ************
+
+Id: 471, Community ID: 471, Is Centroid: False
+
+Id: 819, Community ID: 471, Is Centroid: False
+
+Id: 832, Community ID: 471, Is Centroid: True
+
+Id: 968, Community ID: 471, Is Centroid: False
+
+Id: 1776, Community ID: 471, Is Centroid: False
+
+Id: 2166, Community ID: 471, Is Centroid: False
+
+Id: 2773, Community ID: 471, Is Centroid: False
+
+Id: 3923, Community ID: 471, Is Centroid: False
+
+Id: 4283, Community ID: 471, Is Centroid: False
+
+Id: 4476, Community ID: 471, Is Centroid: False
+
+Id: 5114, Community ID: 471, Is Centroid: False
+
+Id: 5968, Community ID: 471, Is Centroid: False
+
+********** Community [474] ************
+
+Id: 474, Community ID: 474, Is Centroid: False
+
+Id: 4077, Community ID: 474, Is Centroid: False
+
+Id: 5713, Community ID: 474, Is Centroid: False
+
+Id: 5948, Community ID: 474, Is Centroid: False
+
+Id: 6007, Community ID: 474, Is Centroid: True
+
+Id: 6008, Community ID: 474, Is Centroid: False
+
+********** Community [475] ************
+
+Id: 475, Community ID: 475, Is Centroid: False
+
+Id: 1009, Community ID: 475, Is Centroid: False
+
+Id: 1284, Community ID: 475, Is Centroid: False
+
+Id: 1927, Community ID: 475, Is Centroid: False
+
+Id: 2736, Community ID: 475, Is Centroid: False
+
+Id: 3050, Community ID: 475, Is Centroid: False
+
+Id: 3179, Community ID: 475, Is Centroid: False
+
+Id: 3708, Community ID: 475, Is Centroid: False
+
+Id: 3722, Community ID: 475, Is Centroid: False
+
+Id: 4284, Community ID: 475, Is Centroid: False
+
+Id: 4334, Community ID: 475, Is Centroid: True
+
+Id: 4437, Community ID: 475, Is Centroid: False
+
+Id: 5089, Community ID: 475, Is Centroid: False
+
+Id: 5191, Community ID: 475, Is Centroid: False
+
+Id: 6167, Community ID: 475, Is Centroid: False
+
+********** Community [482] ************
+
+Id: 482, Community ID: 482, Is Centroid: True
+
+Id: 1360, Community ID: 482, Is Centroid: False
+
+Id: 2755, Community ID: 482, Is Centroid: False
+
+Id: 5618, Community ID: 482, Is Centroid: False
+
+Id: 5702, Community ID: 482, Is Centroid: False
+
+Id: 6001, Community ID: 482, Is Centroid: False
+
+Id: 6361, Community ID: 482, Is Centroid: False
+
+Id: 6392, Community ID: 482, Is Centroid: False
+
+********** Community [485] ************
+
+Id: 485, Community ID: 485, Is Centroid: False
+
+Id: 622, Community ID: 485, Is Centroid: True
+
+Id: 1266, Community ID: 485, Is Centroid: False
+
+Id: 1825, Community ID: 485, Is Centroid: False
+
+Id: 2032, Community ID: 485, Is Centroid: False
+
+Id: 2913, Community ID: 485, Is Centroid: False
+
+Id: 3416, Community ID: 485, Is Centroid: False
+
+Id: 4636, Community ID: 485, Is Centroid: False
+
+Id: 5162, Community ID: 485, Is Centroid: False
+
+Id: 5261, Community ID: 485, Is Centroid: False
+
+Id: 6073, Community ID: 485, Is Centroid: False
+
+********** Community [490] ************
+
+Id: 490, Community ID: 490, Is Centroid: False
+
+Id: 696, Community ID: 490, Is Centroid: True
+
+Id: 2267, Community ID: 490, Is Centroid: False
+
+Id: 2383, Community ID: 490, Is Centroid: False
+
+Id: 2762, Community ID: 490, Is Centroid: False
+
+Id: 2827, Community ID: 490, Is Centroid: False
+
+Id: 2828, Community ID: 490, Is Centroid: False
+
+********** Community [502] ************
+
+Id: 502, Community ID: 502, Is Centroid: False
+
+Id: 2641, Community ID: 502, Is Centroid: True
+
+Id: 2796, Community ID: 502, Is Centroid: False
+
+Id: 5293, Community ID: 502, Is Centroid: False
+
+Id: 5407, Community ID: 502, Is Centroid: False
+
+Id: 5660, Community ID: 502, Is Centroid: False
+
+Id: 6280, Community ID: 502, Is Centroid: False
+
+********** Community [505] ************
+
+Id: 505, Community ID: 505, Is Centroid: True
+
+Id: 1265, Community ID: 505, Is Centroid: False
+
+Id: 2184, Community ID: 505, Is Centroid: False
+
+Id: 2728, Community ID: 505, Is Centroid: False
+
+Id: 3233, Community ID: 505, Is Centroid: False
+
+Id: 3544, Community ID: 505, Is Centroid: False
+
+Id: 3594, Community ID: 505, Is Centroid: False
+
+Id: 5874, Community ID: 505, Is Centroid: False
+
+********** Community [512] ************
+
+Id: 512, Community ID: 512, Is Centroid: True
+
+Id: 556, Community ID: 512, Is Centroid: False
+
+Id: 872, Community ID: 512, Is Centroid: False
+
+Id: 1037, Community ID: 512, Is Centroid: False
+
+Id: 1693, Community ID: 512, Is Centroid: False
+
+Id: 3175, Community ID: 512, Is Centroid: False
+
+Id: 3227, Community ID: 512, Is Centroid: False
+
+Id: 3228, Community ID: 512, Is Centroid: False
+
+Id: 3814, Community ID: 512, Is Centroid: False
+
+Id: 3958, Community ID: 512, Is Centroid: False
+
+Id: 4065, Community ID: 512, Is Centroid: False
+
+Id: 4114, Community ID: 512, Is Centroid: False
+
+Id: 4270, Community ID: 512, Is Centroid: False
+
+Id: 4926, Community ID: 512, Is Centroid: False
+
+Id: 4944, Community ID: 512, Is Centroid: False
+
+Id: 5539, Community ID: 512, Is Centroid: False
+
+Id: 6091, Community ID: 512, Is Centroid: False
+
+Id: 6364, Community ID: 512, Is Centroid: False
+
+********** Community [515] ************
+
+Id: 515, Community ID: 515, Is Centroid: True
+
+Id: 1235, Community ID: 515, Is Centroid: False
+
+Id: 1579, Community ID: 515, Is Centroid: False
+
+Id: 5158, Community ID: 515, Is Centroid: False
+
+Id: 5282, Community ID: 515, Is Centroid: False
+
+Id: 5780, Community ID: 515, Is Centroid: False
+
+Id: 6239, Community ID: 515, Is Centroid: False
+
+********** Community [517] ************
+
+Id: 517, Community ID: 517, Is Centroid: True
+
+Id: 965, Community ID: 517, Is Centroid: False
+
+Id: 1215, Community ID: 517, Is Centroid: False
+
+Id: 1659, Community ID: 517, Is Centroid: False
+
+Id: 1961, Community ID: 517, Is Centroid: False
+
+Id: 2019, Community ID: 517, Is Centroid: False
+
+Id: 5004, Community ID: 517, Is Centroid: False
+
+Id: 5536, Community ID: 517, Is Centroid: False
+
+********** Community [526] ************
+
+Id: 526, Community ID: 526, Is Centroid: True
+
+Id: 1233, Community ID: 526, Is Centroid: False
+
+Id: 2879, Community ID: 526, Is Centroid: False
+
+Id: 3607, Community ID: 526, Is Centroid: False
+
+Id: 4474, Community ID: 526, Is Centroid: False
+
+Id: 5797, Community ID: 526, Is Centroid: False
+
+Id: 6209, Community ID: 526, Is Centroid: False
+
+********** Community [538] ************
+
+Id: 538, Community ID: 538, Is Centroid: False
+
+Id: 1368, Community ID: 538, Is Centroid: False
+
+Id: 1926, Community ID: 538, Is Centroid: True
+
+Id: 3785, Community ID: 538, Is Centroid: False
+
+Id: 5362, Community ID: 538, Is Centroid: False
+
+Id: 6002, Community ID: 538, Is Centroid: False
+
+********** Community [548] ************
+
+Id: 548, Community ID: 548, Is Centroid: False
+
+Id: 1415, Community ID: 548, Is Centroid: False
+
+Id: 2239, Community ID: 548, Is Centroid: False
+
+Id: 2401, Community ID: 548, Is Centroid: False
+
+Id: 2545, Community ID: 548, Is Centroid: True
+
+Id: 2661, Community ID: 548, Is Centroid: False
+
+Id: 4806, Community ID: 548, Is Centroid: False
+
+Id: 5920, Community ID: 548, Is Centroid: False
+
+Id: 6243, Community ID: 548, Is Centroid: False
+
+Id: 6312, Community ID: 548, Is Centroid: False
+
+Id: 6368, Community ID: 548, Is Centroid: False
+
+********** Community [549] ************
+
+Id: 549, Community ID: 549, Is Centroid: True
+
+Id: 551, Community ID: 549, Is Centroid: False
+
+Id: 3125, Community ID: 549, Is Centroid: False
+
+Id: 6386, Community ID: 549, Is Centroid: False
+
+Id: 6389, Community ID: 549, Is Centroid: False
+
+Id: 6391, Community ID: 549, Is Centroid: False
+
+********** Community [554] ************
+
+Id: 554, Community ID: 554, Is Centroid: False
+
+Id: 1357, Community ID: 554, Is Centroid: False
+
+Id: 2539, Community ID: 554, Is Centroid: False
+
+Id: 2598, Community ID: 554, Is Centroid: False
+
+Id: 2685, Community ID: 554, Is Centroid: False
+
+Id: 4102, Community ID: 554, Is Centroid: False
+
+Id: 4330, Community ID: 554, Is Centroid: False
+
+Id: 4432, Community ID: 554, Is Centroid: False
+
+Id: 5170, Community ID: 554, Is Centroid: False
+
+Id: 5474, Community ID: 554, Is Centroid: False
+
+Id: 5954, Community ID: 554, Is Centroid: False
+
+Id: 5962, Community ID: 554, Is Centroid: False
+
+Id: 5967, Community ID: 554, Is Centroid: True
+
+Id: 6094, Community ID: 554, Is Centroid: False
+
+********** Community [558] ************
+
+Id: 558, Community ID: 558, Is Centroid: False
+
+Id: 1307, Community ID: 558, Is Centroid: False
+
+Id: 1421, Community ID: 558, Is Centroid: False
+
+Id: 1542, Community ID: 558, Is Centroid: False
+
+Id: 1543, Community ID: 558, Is Centroid: True
+
+Id: 2769, Community ID: 558, Is Centroid: False
+
+********** Community [565] ************
+
+Id: 565, Community ID: 565, Is Centroid: False
+
+Id: 1613, Community ID: 565, Is Centroid: False
+
+Id: 1629, Community ID: 565, Is Centroid: True
+
+Id: 2352, Community ID: 565, Is Centroid: False
+
+Id: 2808, Community ID: 565, Is Centroid: False
+
+Id: 5992, Community ID: 565, Is Centroid: False
+
+********** Community [585] ************
+
+Id: 585, Community ID: 585, Is Centroid: False
+
+Id: 1653, Community ID: 585, Is Centroid: False
+
+Id: 1796, Community ID: 585, Is Centroid: False
+
+Id: 3157, Community ID: 585, Is Centroid: False
+
+Id: 3744, Community ID: 585, Is Centroid: False
+
+Id: 4104, Community ID: 585, Is Centroid: True
+
+Id: 5772, Community ID: 585, Is Centroid: False
+
+********** Community [589] ************
+
+Id: 589, Community ID: 589, Is Centroid: False
+
+Id: 645, Community ID: 589, Is Centroid: False
+
+Id: 1770, Community ID: 589, Is Centroid: False
+
+Id: 1771, Community ID: 589, Is Centroid: False
+
+Id: 3109, Community ID: 589, Is Centroid: False
+
+Id: 3695, Community ID: 589, Is Centroid: True
+
+Id: 3821, Community ID: 589, Is Centroid: False
+
+Id: 5166, Community ID: 589, Is Centroid: False
+
+********** Community [590] ************
+
+Id: 590, Community ID: 590, Is Centroid: True
+
+Id: 1314, Community ID: 590, Is Centroid: False
+
+Id: 2201, Community ID: 590, Is Centroid: False
+
+Id: 2204, Community ID: 590, Is Centroid: False
+
+Id: 2310, Community ID: 590, Is Centroid: False
+
+Id: 2311, Community ID: 590, Is Centroid: False
+
+Id: 6112, Community ID: 590, Is Centroid: False
+
+Id: 6296, Community ID: 590, Is Centroid: False
+
+********** Community [607] ************
+
+Id: 607, Community ID: 607, Is Centroid: False
+
+Id: 1393, Community ID: 607, Is Centroid: False
+
+Id: 2621, Community ID: 607, Is Centroid: True
+
+Id: 2870, Community ID: 607, Is Centroid: False
+
+Id: 3640, Community ID: 607, Is Centroid: False
+
+Id: 3714, Community ID: 607, Is Centroid: False
+
+Id: 5278, Community ID: 607, Is Centroid: False
+
+********** Community [612] ************
+
+Id: 612, Community ID: 612, Is Centroid: False
+
+Id: 748, Community ID: 612, Is Centroid: False
+
+Id: 865, Community ID: 612, Is Centroid: False
+
+Id: 1722, Community ID: 612, Is Centroid: False
+
+Id: 1809, Community ID: 612, Is Centroid: False
+
+Id: 2043, Community ID: 612, Is Centroid: False
+
+Id: 2602, Community ID: 612, Is Centroid: True
+
+Id: 3364, Community ID: 612, Is Centroid: False
+
+Id: 3499, Community ID: 612, Is Centroid: False
+
+Id: 5527, Community ID: 612, Is Centroid: False
+
+********** Community [613] ************
+
+Id: 613, Community ID: 613, Is Centroid: False
+
+Id: 1046, Community ID: 613, Is Centroid: False
+
+Id: 1643, Community ID: 613, Is Centroid: False
+
+Id: 1897, Community ID: 613, Is Centroid: False
+
+Id: 3139, Community ID: 613, Is Centroid: False
+
+Id: 3658, Community ID: 613, Is Centroid: False
+
+Id: 5218, Community ID: 613, Is Centroid: True
+
+********** Community [617] ************
+
+Id: 617, Community ID: 617, Is Centroid: False
+
+Id: 717, Community ID: 617, Is Centroid: False
+
+Id: 2794, Community ID: 617, Is Centroid: False
+
+Id: 2858, Community ID: 617, Is Centroid: True
+
+Id: 2859, Community ID: 617, Is Centroid: False
+
+Id: 2860, Community ID: 617, Is Centroid: False
+
+********** Community [629] ************
+
+Id: 629, Community ID: 629, Is Centroid: True
+
+Id: 687, Community ID: 629, Is Centroid: False
+
+Id: 2217, Community ID: 629, Is Centroid: False
+
+Id: 3106, Community ID: 629, Is Centroid: False
+
+Id: 5141, Community ID: 629, Is Centroid: False
+
+Id: 5315, Community ID: 629, Is Centroid: False
+
+Id: 5448, Community ID: 629, Is Centroid: False
+
+Id: 6143, Community ID: 629, Is Centroid: False
+
+Id: 6271, Community ID: 629, Is Centroid: False
+
+********** Community [631] ************
+
+Id: 631, Community ID: 631, Is Centroid: False
+
+Id: 769, Community ID: 631, Is Centroid: False
+
+Id: 1250, Community ID: 631, Is Centroid: False
+
+Id: 2837, Community ID: 631, Is Centroid: True
+
+Id: 4044, Community ID: 631, Is Centroid: False
+
+Id: 4680, Community ID: 631, Is Centroid: False
+
+Id: 5678, Community ID: 631, Is Centroid: False
+
+Id: 5870, Community ID: 631, Is Centroid: False
+
+********** Community [636] ************
+
+Id: 636, Community ID: 636, Is Centroid: False
+
+Id: 848, Community ID: 636, Is Centroid: False
+
+Id: 1109, Community ID: 636, Is Centroid: False
+
+Id: 1339, Community ID: 636, Is Centroid: False
+
+Id: 2296, Community ID: 636, Is Centroid: False
+
+Id: 2427, Community ID: 636, Is Centroid: False
+
+Id: 3226, Community ID: 636, Is Centroid: True
+
+Id: 4347, Community ID: 636, Is Centroid: False
+
+Id: 4605, Community ID: 636, Is Centroid: False
+
+Id: 4681, Community ID: 636, Is Centroid: False
+
+Id: 4755, Community ID: 636, Is Centroid: False
+
+Id: 5835, Community ID: 636, Is Centroid: False
+
+********** Community [639] ************
+
+Id: 639, Community ID: 639, Is Centroid: False
+
+Id: 4502, Community ID: 639, Is Centroid: True
+
+Id: 4503, Community ID: 639, Is Centroid: False
+
+Id: 4504, Community ID: 639, Is Centroid: False
+
+Id: 4505, Community ID: 639, Is Centroid: False
+
+Id: 4506, Community ID: 639, Is Centroid: False
+
+********** Community [641] ************
+
+Id: 641, Community ID: 641, Is Centroid: False
+
+Id: 973, Community ID: 641, Is Centroid: False
+
+Id: 974, Community ID: 641, Is Centroid: False
+
+Id: 1863, Community ID: 641, Is Centroid: True
+
+Id: 1874, Community ID: 641, Is Centroid: False
+
+Id: 1911, Community ID: 641, Is Centroid: False
+
+Id: 2155, Community ID: 641, Is Centroid: False
+
+Id: 2490, Community ID: 641, Is Centroid: False
+
+Id: 2520, Community ID: 641, Is Centroid: False
+
+Id: 2642, Community ID: 641, Is Centroid: False
+
+Id: 3219, Community ID: 641, Is Centroid: False
+
+Id: 4515, Community ID: 641, Is Centroid: False
+
+Id: 4903, Community ID: 641, Is Centroid: False
+
+Id: 4968, Community ID: 641, Is Centroid: False
+
+Id: 5651, Community ID: 641, Is Centroid: False
+
+Id: 6152, Community ID: 641, Is Centroid: False
+
+Id: 6348, Community ID: 641, Is Centroid: False
+
+********** Community [644] ************
+
+Id: 644, Community ID: 644, Is Centroid: False
+
+Id: 1115, Community ID: 644, Is Centroid: False
+
+Id: 3080, Community ID: 644, Is Centroid: False
+
+Id: 3326, Community ID: 644, Is Centroid: False
+
+Id: 4247, Community ID: 644, Is Centroid: False
+
+Id: 4338, Community ID: 644, Is Centroid: False
+
+Id: 4610, Community ID: 644, Is Centroid: True
+
+Id: 5173, Community ID: 644, Is Centroid: False
+
+********** Community [649] ************
+
+Id: 649, Community ID: 649, Is Centroid: False
+
+Id: 854, Community ID: 649, Is Centroid: False
+
+Id: 3359, Community ID: 649, Is Centroid: False
+
+Id: 3360, Community ID: 649, Is Centroid: False
+
+Id: 3691, Community ID: 649, Is Centroid: False
+
+Id: 4661, Community ID: 649, Is Centroid: False
+
+Id: 5146, Community ID: 649, Is Centroid: False
+
+Id: 5540, Community ID: 649, Is Centroid: True
+
+Id: 5762, Community ID: 649, Is Centroid: False
+
+Id: 6141, Community ID: 649, Is Centroid: False
+
+Id: 6300, Community ID: 649, Is Centroid: False
+
+********** Community [652] ************
+
+Id: 652, Community ID: 652, Is Centroid: False
+
+Id: 884, Community ID: 652, Is Centroid: False
+
+Id: 981, Community ID: 652, Is Centroid: False
+
+Id: 3592, Community ID: 652, Is Centroid: False
+
+Id: 3818, Community ID: 652, Is Centroid: True
+
+Id: 4938, Community ID: 652, Is Centroid: False
+
+Id: 5858, Community ID: 652, Is Centroid: False
+
+********** Community [656] ************
+
+Id: 656, Community ID: 656, Is Centroid: False
+
+Id: 987, Community ID: 656, Is Centroid: False
+
+Id: 1672, Community ID: 656, Is Centroid: True
+
+Id: 2475, Community ID: 656, Is Centroid: False
+
+Id: 2575, Community ID: 656, Is Centroid: False
+
+Id: 3401, Community ID: 656, Is Centroid: False
+
+Id: 3728, Community ID: 656, Is Centroid: False
+
+Id: 3808, Community ID: 656, Is Centroid: False
+
+Id: 4126, Community ID: 656, Is Centroid: False
+
+Id: 5384, Community ID: 656, Is Centroid: False
+
+********** Community [668] ************
+
+Id: 668, Community ID: 668, Is Centroid: False
+
+Id: 900, Community ID: 668, Is Centroid: False
+
+Id: 1435, Community ID: 668, Is Centroid: False
+
+Id: 3550, Community ID: 668, Is Centroid: False
+
+Id: 3813, Community ID: 668, Is Centroid: False
+
+Id: 3885, Community ID: 668, Is Centroid: True
+
+********** Community [673] ************
+
+Id: 673, Community ID: 673, Is Centroid: True
+
+Id: 1378, Community ID: 673, Is Centroid: False
+
+Id: 3131, Community ID: 673, Is Centroid: False
+
+Id: 3280, Community ID: 673, Is Centroid: False
+
+Id: 3630, Community ID: 673, Is Centroid: False
+
+Id: 4780, Community ID: 673, Is Centroid: False
+
+********** Community [678] ************
+
+Id: 678, Community ID: 678, Is Centroid: False
+
+Id: 1595, Community ID: 678, Is Centroid: False
+
+Id: 2717, Community ID: 678, Is Centroid: True
+
+Id: 3484, Community ID: 678, Is Centroid: False
+
+Id: 3522, Community ID: 678, Is Centroid: False
+
+Id: 5234, Community ID: 678, Is Centroid: False
+
+Id: 5846, Community ID: 678, Is Centroid: False
+
+Id: 5885, Community ID: 678, Is Centroid: False
+
+********** Community [681] ************
+
+Id: 681, Community ID: 681, Is Centroid: False
+
+Id: 1644, Community ID: 681, Is Centroid: False
+
+Id: 2871, Community ID: 681, Is Centroid: True
+
+Id: 3721, Community ID: 681, Is Centroid: False
+
+Id: 3972, Community ID: 681, Is Centroid: False
+
+Id: 4215, Community ID: 681, Is Centroid: False
+
+Id: 4436, Community ID: 681, Is Centroid: False
+
+********** Community [693] ************
+
+Id: 693, Community ID: 693, Is Centroid: False
+
+Id: 779, Community ID: 693, Is Centroid: True
+
+Id: 780, Community ID: 693, Is Centroid: False
+
+Id: 781, Community ID: 693, Is Centroid: False
+
+Id: 1868, Community ID: 693, Is Centroid: False
+
+Id: 3255, Community ID: 693, Is Centroid: False
+
+Id: 3825, Community ID: 693, Is Centroid: False
+
+********** Community [698] ************
+
+Id: 698, Community ID: 698, Is Centroid: False
+
+Id: 1071, Community ID: 698, Is Centroid: False
+
+Id: 1353, Community ID: 698, Is Centroid: False
+
+Id: 1923, Community ID: 698, Is Centroid: False
+
+Id: 2108, Community ID: 698, Is Centroid: False
+
+Id: 2122, Community ID: 698, Is Centroid: False
+
+Id: 2276, Community ID: 698, Is Centroid: False
+
+Id: 2301, Community ID: 698, Is Centroid: False
+
+Id: 2318, Community ID: 698, Is Centroid: False
+
+Id: 2586, Community ID: 698, Is Centroid: False
+
+Id: 3418, Community ID: 698, Is Centroid: False
+
+Id: 3852, Community ID: 698, Is Centroid: False
+
+Id: 4477, Community ID: 698, Is Centroid: True
+
+Id: 4861, Community ID: 698, Is Centroid: False
+
+Id: 6174, Community ID: 698, Is Centroid: False
+
+********** Community [713] ************
+
+Id: 713, Community ID: 713, Is Centroid: False
+
+Id: 820, Community ID: 713, Is Centroid: False
+
+Id: 827, Community ID: 713, Is Centroid: False
+
+Id: 1380, Community ID: 713, Is Centroid: True
+
+Id: 2107, Community ID: 713, Is Centroid: False
+
+Id: 2373, Community ID: 713, Is Centroid: False
+
+Id: 2467, Community ID: 713, Is Centroid: False
+
+Id: 3674, Community ID: 713, Is Centroid: False
+
+Id: 3762, Community ID: 713, Is Centroid: False
+
+Id: 3899, Community ID: 713, Is Centroid: False
+
+Id: 4947, Community ID: 713, Is Centroid: False
+
+Id: 5323, Community ID: 713, Is Centroid: False
+
+Id: 6005, Community ID: 713, Is Centroid: False
+
+********** Community [716] ************
+
+Id: 716, Community ID: 716, Is Centroid: True
+
+Id: 1913, Community ID: 716, Is Centroid: False
+
+Id: 4646, Community ID: 716, Is Centroid: False
+
+Id: 5084, Community ID: 716, Is Centroid: False
+
+Id: 5861, Community ID: 716, Is Centroid: False
+
+Id: 5983, Community ID: 716, Is Centroid: False
+
+********** Community [721] ************
+
+Id: 721, Community ID: 721, Is Centroid: True
+
+Id: 1048, Community ID: 721, Is Centroid: False
+
+Id: 1169, Community ID: 721, Is Centroid: False
+
+Id: 2425, Community ID: 721, Is Centroid: False
+
+Id: 3362, Community ID: 721, Is Centroid: False
+
+Id: 3627, Community ID: 721, Is Centroid: False
+
+Id: 3939, Community ID: 721, Is Centroid: False
+
+Id: 5897, Community ID: 721, Is Centroid: False
+
+Id: 5994, Community ID: 721, Is Centroid: False
+
+********** Community [723] ************
+
+Id: 723, Community ID: 723, Is Centroid: False
+
+Id: 958, Community ID: 723, Is Centroid: False
+
+Id: 1121, Community ID: 723, Is Centroid: False
+
+Id: 1744, Community ID: 723, Is Centroid: True
+
+Id: 1803, Community ID: 723, Is Centroid: False
+
+Id: 2454, Community ID: 723, Is Centroid: False
+
+Id: 3365, Community ID: 723, Is Centroid: False
+
+Id: 4036, Community ID: 723, Is Centroid: False
+
+Id: 5633, Community ID: 723, Is Centroid: False
+
+********** Community [735] ************
+
+Id: 735, Community ID: 735, Is Centroid: False
+
+Id: 1337, Community ID: 735, Is Centroid: False
+
+Id: 1513, Community ID: 735, Is Centroid: False
+
+Id: 1835, Community ID: 735, Is Centroid: False
+
+Id: 2295, Community ID: 735, Is Centroid: False
+
+Id: 2334, Community ID: 735, Is Centroid: False
+
+Id: 2533, Community ID: 735, Is Centroid: False
+
+Id: 3693, Community ID: 735, Is Centroid: False
+
+Id: 3910, Community ID: 735, Is Centroid: False
+
+Id: 5649, Community ID: 735, Is Centroid: False
+
+Id: 5773, Community ID: 735, Is Centroid: True
+
+********** Community [745] ************
+
+Id: 745, Community ID: 745, Is Centroid: True
+
+Id: 2093, Community ID: 745, Is Centroid: False
+
+Id: 2589, Community ID: 745, Is Centroid: False
+
+Id: 4629, Community ID: 745, Is Centroid: False
+
+Id: 4933, Community ID: 745, Is Centroid: False
+
+Id: 5744, Community ID: 745, Is Centroid: False
+
+Id: 5984, Community ID: 745, Is Centroid: False
+
+Id: 6030, Community ID: 745, Is Centroid: False
+
+Id: 6295, Community ID: 745, Is Centroid: False
+
+********** Community [749] ************
+
+Id: 749, Community ID: 749, Is Centroid: False
+
+Id: 853, Community ID: 749, Is Centroid: False
+
+Id: 1088, Community ID: 749, Is Centroid: False
+
+Id: 1873, Community ID: 749, Is Centroid: False
+
+Id: 2045, Community ID: 749, Is Centroid: True
+
+Id: 2046, Community ID: 749, Is Centroid: False
+
+Id: 3205, Community ID: 749, Is Centroid: False
+
+Id: 4353, Community ID: 749, Is Centroid: False
+
+Id: 4682, Community ID: 749, Is Centroid: False
+
+********** Community [752] ************
+
+Id: 752, Community ID: 752, Is Centroid: True
+
+Id: 2421, Community ID: 752, Is Centroid: False
+
+Id: 3393, Community ID: 752, Is Centroid: False
+
+Id: 3727, Community ID: 752, Is Centroid: False
+
+Id: 4231, Community ID: 752, Is Centroid: False
+
+Id: 5100, Community ID: 752, Is Centroid: False
+
+Id: 5161, Community ID: 752, Is Centroid: False
+
+Id: 5723, Community ID: 752, Is Centroid: False
+
+Id: 6045, Community ID: 752, Is Centroid: False
+
+********** Community [754] ************
+
+Id: 754, Community ID: 754, Is Centroid: False
+
+Id: 1534, Community ID: 754, Is Centroid: False
+
+Id: 1822, Community ID: 754, Is Centroid: False
+
+Id: 2378, Community ID: 754, Is Centroid: False
+
+Id: 3103, Community ID: 754, Is Centroid: False
+
+Id: 3190, Community ID: 754, Is Centroid: False
+
+Id: 3589, Community ID: 754, Is Centroid: False
+
+Id: 3743, Community ID: 754, Is Centroid: False
+
+Id: 3884, Community ID: 754, Is Centroid: True
+
+Id: 4253, Community ID: 754, Is Centroid: False
+
+********** Community [759] ************
+
+Id: 759, Community ID: 759, Is Centroid: False
+
+Id: 2558, Community ID: 759, Is Centroid: False
+
+Id: 5321, Community ID: 759, Is Centroid: True
+
+Id: 5830, Community ID: 759, Is Centroid: False
+
+Id: 5958, Community ID: 759, Is Centroid: False
+
+Id: 5959, Community ID: 759, Is Centroid: False
+
+********** Community [760] ************
+
+Id: 760, Community ID: 760, Is Centroid: True
+
+Id: 1673, Community ID: 760, Is Centroid: False
+
+Id: 2173, Community ID: 760, Is Centroid: False
+
+Id: 2657, Community ID: 760, Is Centroid: False
+
+Id: 3483, Community ID: 760, Is Centroid: False
+
+Id: 4011, Community ID: 760, Is Centroid: False
+
+Id: 5120, Community ID: 760, Is Centroid: False
+
+Id: 5426, Community ID: 760, Is Centroid: False
+
+Id: 5824, Community ID: 760, Is Centroid: False
+
+********** Community [775] ************
+
+Id: 775, Community ID: 775, Is Centroid: False
+
+Id: 1724, Community ID: 775, Is Centroid: False
+
+Id: 2157, Community ID: 775, Is Centroid: True
+
+Id: 2515, Community ID: 775, Is Centroid: False
+
+Id: 3819, Community ID: 775, Is Centroid: False
+
+Id: 4787, Community ID: 775, Is Centroid: False
+
+Id: 5253, Community ID: 775, Is Centroid: False
+
+Id: 6089, Community ID: 775, Is Centroid: False
+
+********** Community [776] ************
+
+Id: 776, Community ID: 776, Is Centroid: True
+
+Id: 1832, Community ID: 776, Is Centroid: False
+
+Id: 2445, Community ID: 776, Is Centroid: False
+
+Id: 3010, Community ID: 776, Is Centroid: False
+
+Id: 4189, Community ID: 776, Is Centroid: False
+
+Id: 5951, Community ID: 776, Is Centroid: False
+
+Id: 6236, Community ID: 776, Is Centroid: False
+
+********** Community [784] ************
+
+Id: 784, Community ID: 784, Is Centroid: False
+
+Id: 1144, Community ID: 784, Is Centroid: False
+
+Id: 1166, Community ID: 784, Is Centroid: False
+
+Id: 1516, Community ID: 784, Is Centroid: True
+
+Id: 1577, Community ID: 784, Is Centroid: False
+
+Id: 2981, Community ID: 784, Is Centroid: False
+
+Id: 4663, Community ID: 784, Is Centroid: False
+
+Id: 4664, Community ID: 784, Is Centroid: False
+
+Id: 4665, Community ID: 784, Is Centroid: False
+
+********** Community [786] ************
+
+Id: 786, Community ID: 786, Is Centroid: True
+
+Id: 1294, Community ID: 786, Is Centroid: False
+
+Id: 2355, Community ID: 786, Is Centroid: False
+
+Id: 2714, Community ID: 786, Is Centroid: False
+
+Id: 3698, Community ID: 786, Is Centroid: False
+
+Id: 3704, Community ID: 786, Is Centroid: False
+
+********** Community [787] ************
+
+Id: 787, Community ID: 787, Is Centroid: False
+
+Id: 1123, Community ID: 787, Is Centroid: False
+
+Id: 1124, Community ID: 787, Is Centroid: False
+
+Id: 1244, Community ID: 787, Is Centroid: True
+
+Id: 1411, Community ID: 787, Is Centroid: False
+
+Id: 1671, Community ID: 787, Is Centroid: False
+
+Id: 2338, Community ID: 787, Is Centroid: False
+
+Id: 2542, Community ID: 787, Is Centroid: False
+
+Id: 2942, Community ID: 787, Is Centroid: False
+
+Id: 3378, Community ID: 787, Is Centroid: False
+
+Id: 4794, Community ID: 787, Is Centroid: False
+
+********** Community [829] ************
+
+Id: 829, Community ID: 829, Is Centroid: True
+
+Id: 1545, Community ID: 829, Is Centroid: False
+
+Id: 2349, Community ID: 829, Is Centroid: False
+
+Id: 2921, Community ID: 829, Is Centroid: False
+
+Id: 3291, Community ID: 829, Is Centroid: False
+
+Id: 5456, Community ID: 829, Is Centroid: False
+
+Id: 5457, Community ID: 829, Is Centroid: False
+
+Id: 5749, Community ID: 829, Is Centroid: False
+
+Id: 5907, Community ID: 829, Is Centroid: False
+
+********** Community [852] ************
+
+Id: 852, Community ID: 852, Is Centroid: True
+
+Id: 1134, Community ID: 852, Is Centroid: False
+
+Id: 2074, Community ID: 852, Is Centroid: False
+
+Id: 4710, Community ID: 852, Is Centroid: False
+
+Id: 5107, Community ID: 852, Is Centroid: False
+
+Id: 5439, Community ID: 852, Is Centroid: False
+
+Id: 5679, Community ID: 852, Is Centroid: False
+
+********** Community [855] ************
+
+Id: 855, Community ID: 855, Is Centroid: True
+
+Id: 1085, Community ID: 855, Is Centroid: False
+
+Id: 1320, Community ID: 855, Is Centroid: False
+
+Id: 2298, Community ID: 855, Is Centroid: False
+
+Id: 2583, Community ID: 855, Is Centroid: False
+
+Id: 3056, Community ID: 855, Is Centroid: False
+
+Id: 5541, Community ID: 855, Is Centroid: False
+
+Id: 6304, Community ID: 855, Is Centroid: False
+
+********** Community [868] ************
+
+Id: 868, Community ID: 868, Is Centroid: True
+
+Id: 1576, Community ID: 868, Is Centroid: False
+
+Id: 2727, Community ID: 868, Is Centroid: False
+
+Id: 3602, Community ID: 868, Is Centroid: False
+
+Id: 4396, Community ID: 868, Is Centroid: False
+
+Id: 5625, Community ID: 868, Is Centroid: False
+
+Id: 6284, Community ID: 868, Is Centroid: False
+
+Id: 6301, Community ID: 868, Is Centroid: False
+
+********** Community [870] ************
+
+Id: 870, Community ID: 870, Is Centroid: False
+
+Id: 1591, Community ID: 870, Is Centroid: False
+
+Id: 3494, Community ID: 870, Is Centroid: True
+
+Id: 3634, Community ID: 870, Is Centroid: False
+
+Id: 4099, Community ID: 870, Is Centroid: False
+
+Id: 4278, Community ID: 870, Is Centroid: False
+
+********** Community [883] ************
+
+Id: 883, Community ID: 883, Is Centroid: True
+
+Id: 2121, Community ID: 883, Is Centroid: False
+
+Id: 2807, Community ID: 883, Is Centroid: False
+
+Id: 5319, Community ID: 883, Is Centroid: False
+
+Id: 5766, Community ID: 883, Is Centroid: False
+
+Id: 5818, Community ID: 883, Is Centroid: False
+
+********** Community [896] ************
+
+Id: 896, Community ID: 896, Is Centroid: False
+
+Id: 1253, Community ID: 896, Is Centroid: False
+
+Id: 2346, Community ID: 896, Is Centroid: False
+
+Id: 3599, Community ID: 896, Is Centroid: True
+
+Id: 3679, Community ID: 896, Is Centroid: False
+
+Id: 4249, Community ID: 896, Is Centroid: False
+
+Id: 4586, Community ID: 896, Is Centroid: False
+
+Id: 5995, Community ID: 896, Is Centroid: False
+
+********** Community [930] ************
+
+Id: 930, Community ID: 930, Is Centroid: False
+
+Id: 1914, Community ID: 930, Is Centroid: False
+
+Id: 2368, Community ID: 930, Is Centroid: False
+
+Id: 2683, Community ID: 930, Is Centroid: False
+
+Id: 3403, Community ID: 930, Is Centroid: False
+
+Id: 4802, Community ID: 930, Is Centroid: False
+
+Id: 4928, Community ID: 930, Is Centroid: False
+
+Id: 4962, Community ID: 930, Is Centroid: True
+
+Id: 5291, Community ID: 930, Is Centroid: False
+
+Id: 5379, Community ID: 930, Is Centroid: False
+
+Id: 5454, Community ID: 930, Is Centroid: False
+
+Id: 5893, Community ID: 930, Is Centroid: False
+
+Id: 6272, Community ID: 930, Is Centroid: False
+
+********** Community [956] ************
+
+Id: 956, Community ID: 956, Is Centroid: False
+
+Id: 2208, Community ID: 956, Is Centroid: False
+
+Id: 2435, Community ID: 956, Is Centroid: True
+
+Id: 4186, Community ID: 956, Is Centroid: False
+
+Id: 4529, Community ID: 956, Is Centroid: False
+
+Id: 4678, Community ID: 956, Is Centroid: False
+
+Id: 5415, Community ID: 956, Is Centroid: False
+
+********** Community [957] ************
+
+Id: 957, Community ID: 957, Is Centroid: False
+
+Id: 1225, Community ID: 957, Is Centroid: True
+
+Id: 1464, Community ID: 957, Is Centroid: False
+
+Id: 1465, Community ID: 957, Is Centroid: False
+
+Id: 2044, Community ID: 957, Is Centroid: False
+
+Id: 2376, Community ID: 957, Is Centroid: False
+
+Id: 2457, Community ID: 957, Is Centroid: False
+
+Id: 2620, Community ID: 957, Is Centroid: False
+
+Id: 5584, Community ID: 957, Is Centroid: False
+
+Id: 6116, Community ID: 957, Is Centroid: False
+
+********** Community [960] ************
+
+Id: 960, Community ID: 960, Is Centroid: True
+
+Id: 1611, Community ID: 960, Is Centroid: False
+
+Id: 2359, Community ID: 960, Is Centroid: False
+
+Id: 3595, Community ID: 960, Is Centroid: False
+
+Id: 3686, Community ID: 960, Is Centroid: False
+
+Id: 5305, Community ID: 960, Is Centroid: False
+
+********** Community [963] ************
+
+Id: 963, Community ID: 963, Is Centroid: False
+
+Id: 1006, Community ID: 963, Is Centroid: True
+
+Id: 1264, Community ID: 963, Is Centroid: False
+
+Id: 2236, Community ID: 963, Is Centroid: False
+
+Id: 2862, Community ID: 963, Is Centroid: False
+
+Id: 3096, Community ID: 963, Is Centroid: False
+
+Id: 3628, Community ID: 963, Is Centroid: False
+
+Id: 4533, Community ID: 963, Is Centroid: False
+
+Id: 4618, Community ID: 963, Is Centroid: False
+
+********** Community [964] ************
+
+Id: 964, Community ID: 964, Is Centroid: False
+
+Id: 3869, Community ID: 964, Is Centroid: False
+
+Id: 3952, Community ID: 964, Is Centroid: False
+
+Id: 4292, Community ID: 964, Is Centroid: False
+
+Id: 4456, Community ID: 964, Is Centroid: False
+
+Id: 4728, Community ID: 964, Is Centroid: True
+
+********** Community [970] ************
+
+Id: 970, Community ID: 970, Is Centroid: False
+
+Id: 1188, Community ID: 970, Is Centroid: False
+
+Id: 1206, Community ID: 970, Is Centroid: False
+
+Id: 3188, Community ID: 970, Is Centroid: False
+
+Id: 3406, Community ID: 970, Is Centroid: False
+
+Id: 4563, Community ID: 970, Is Centroid: True
+
+Id: 5105, Community ID: 970, Is Centroid: False
+
+Id: 6108, Community ID: 970, Is Centroid: False
+
+********** Community [983] ************
+
+Id: 983, Community ID: 983, Is Centroid: True
+
+Id: 984, Community ID: 983, Is Centroid: False
+
+Id: 985, Community ID: 983, Is Centroid: False
+
+Id: 1162, Community ID: 983, Is Centroid: False
+
+Id: 1521, Community ID: 983, Is Centroid: False
+
+Id: 2474, Community ID: 983, Is Centroid: False
+
+********** Community [1010] ************
+
+Id: 1010, Community ID: 1010, Is Centroid: False
+
+Id: 1056, Community ID: 1010, Is Centroid: False
+
+Id: 1341, Community ID: 1010, Is Centroid: False
+
+Id: 2036, Community ID: 1010, Is Centroid: False
+
+Id: 3262, Community ID: 1010, Is Centroid: False
+
+Id: 4740, Community ID: 1010, Is Centroid: True
+
+Id: 4971, Community ID: 1010, Is Centroid: False
+
+Id: 5249, Community ID: 1010, Is Centroid: False
+
+********** Community [1013] ************
+
+Id: 1013, Community ID: 1013, Is Centroid: True
+
+Id: 2513, Community ID: 1013, Is Centroid: False
+
+Id: 3386, Community ID: 1013, Is Centroid: False
+
+Id: 3479, Community ID: 1013, Is Centroid: False
+
+Id: 3853, Community ID: 1013, Is Centroid: False
+
+Id: 3965, Community ID: 1013, Is Centroid: False
+
+Id: 5389, Community ID: 1013, Is Centroid: False
+
+Id: 5390, Community ID: 1013, Is Centroid: False
+
+Id: 6384, Community ID: 1013, Is Centroid: False
+
+********** Community [1020] ************
+
+Id: 1020, Community ID: 1020, Is Centroid: False
+
+Id: 1034, Community ID: 1020, Is Centroid: True
+
+Id: 1857, Community ID: 1020, Is Centroid: False
+
+Id: 2521, Community ID: 1020, Is Centroid: False
+
+Id: 3380, Community ID: 1020, Is Centroid: False
+
+Id: 4390, Community ID: 1020, Is Centroid: False
+
+Id: 4391, Community ID: 1020, Is Centroid: False
+
+Id: 4906, Community ID: 1020, Is Centroid: False
+
+********** Community [1033] ************
+
+Id: 1033, Community ID: 1033, Is Centroid: True
+
+Id: 1476, Community ID: 1033, Is Centroid: False
+
+Id: 4392, Community ID: 1033, Is Centroid: False
+
+Id: 5287, Community ID: 1033, Is Centroid: False
+
+Id: 5819, Community ID: 1033, Is Centroid: False
+
+Id: 6059, Community ID: 1033, Is Centroid: False
+
+********** Community [1045] ************
+
+Id: 1045, Community ID: 1045, Is Centroid: False
+
+Id: 1892, Community ID: 1045, Is Centroid: False
+
+Id: 3066, Community ID: 1045, Is Centroid: False
+
+Id: 3889, Community ID: 1045, Is Centroid: False
+
+Id: 3949, Community ID: 1045, Is Centroid: True
+
+Id: 3994, Community ID: 1045, Is Centroid: False
+
+Id: 4481, Community ID: 1045, Is Centroid: False
+
+Id: 5110, Community ID: 1045, Is Centroid: False
+
+Id: 5294, Community ID: 1045, Is Centroid: False
+
+Id: 5602, Community ID: 1045, Is Centroid: False
+
+********** Community [1064] ************
+
+Id: 1064, Community ID: 1064, Is Centroid: True
+
+Id: 3954, Community ID: 1064, Is Centroid: False
+
+Id: 4369, Community ID: 1064, Is Centroid: False
+
+Id: 4431, Community ID: 1064, Is Centroid: False
+
+Id: 5659, Community ID: 1064, Is Centroid: False
+
+Id: 5742, Community ID: 1064, Is Centroid: False
+
+Id: 6212, Community ID: 1064, Is Centroid: False
+
+Id: 6426, Community ID: 1064, Is Centroid: False
+
+********** Community [1069] ************
+
+Id: 1069, Community ID: 1069, Is Centroid: False
+
+Id: 1070, Community ID: 1069, Is Centroid: False
+
+Id: 2941, Community ID: 1069, Is Centroid: False
+
+Id: 3021, Community ID: 1069, Is Centroid: True
+
+Id: 3028, Community ID: 1069, Is Centroid: False
+
+Id: 3032, Community ID: 1069, Is Centroid: False
+
+Id: 3037, Community ID: 1069, Is Centroid: False
+
+Id: 3098, Community ID: 1069, Is Centroid: False
+
+Id: 5834, Community ID: 1069, Is Centroid: False
+
+********** Community [1098] ************
+
+Id: 1098, Community ID: 1098, Is Centroid: False
+
+Id: 3510, Community ID: 1098, Is Centroid: True
+
+Id: 3701, Community ID: 1098, Is Centroid: False
+
+Id: 5055, Community ID: 1098, Is Centroid: False
+
+Id: 5056, Community ID: 1098, Is Centroid: False
+
+Id: 5058, Community ID: 1098, Is Centroid: False
+
+Id: 5966, Community ID: 1098, Is Centroid: False
+
+Id: 6171, Community ID: 1098, Is Centroid: False
+
+********** Community [1107] ************
+
+Id: 1107, Community ID: 1107, Is Centroid: True
+
+Id: 2404, Community ID: 1107, Is Centroid: False
+
+Id: 3422, Community ID: 1107, Is Centroid: False
+
+Id: 3566, Community ID: 1107, Is Centroid: False
+
+Id: 4257, Community ID: 1107, Is Centroid: False
+
+Id: 4495, Community ID: 1107, Is Centroid: False
+
+Id: 4879, Community ID: 1107, Is Centroid: False
+
+********** Community [1117] ************
+
+Id: 1117, Community ID: 1117, Is Centroid: False
+
+Id: 2945, Community ID: 1117, Is Centroid: False
+
+Id: 4020, Community ID: 1117, Is Centroid: False
+
+Id: 4113, Community ID: 1117, Is Centroid: True
+
+Id: 4468, Community ID: 1117, Is Centroid: False
+
+Id: 4543, Community ID: 1117, Is Centroid: False
+
+Id: 5237, Community ID: 1117, Is Centroid: False
+
+********** Community [1120] ************
+
+Id: 1120, Community ID: 1120, Is Centroid: False
+
+Id: 1559, Community ID: 1120, Is Centroid: True
+
+Id: 4448, Community ID: 1120, Is Centroid: False
+
+Id: 4695, Community ID: 1120, Is Centroid: False
+
+Id: 4949, Community ID: 1120, Is Centroid: False
+
+Id: 4950, Community ID: 1120, Is Centroid: False
+
+********** Community [1127] ************
+
+Id: 1127, Community ID: 1127, Is Centroid: True
+
+Id: 2040, Community ID: 1127, Is Centroid: False
+
+Id: 3950, Community ID: 1127, Is Centroid: False
+
+Id: 4366, Community ID: 1127, Is Centroid: False
+
+Id: 4395, Community ID: 1127, Is Centroid: False
+
+Id: 4726, Community ID: 1127, Is Centroid: False
+
+Id: 5002, Community ID: 1127, Is Centroid: False
+
+Id: 5467, Community ID: 1127, Is Centroid: False
+
+Id: 6306, Community ID: 1127, Is Centroid: False
+
+********** Community [1130] ************
+
+Id: 1130, Community ID: 1130, Is Centroid: True
+
+Id: 1292, Community ID: 1130, Is Centroid: False
+
+Id: 2560, Community ID: 1130, Is Centroid: False
+
+Id: 3497, Community ID: 1130, Is Centroid: False
+
+Id: 5469, Community ID: 1130, Is Centroid: False
+
+Id: 6309, Community ID: 1130, Is Centroid: False
+
+********** Community [1159] ************
+
+Id: 1159, Community ID: 1159, Is Centroid: False
+
+Id: 1807, Community ID: 1159, Is Centroid: True
+
+Id: 2033, Community ID: 1159, Is Centroid: False
+
+Id: 4912, Community ID: 1159, Is Centroid: False
+
+Id: 5377, Community ID: 1159, Is Centroid: False
+
+Id: 5672, Community ID: 1159, Is Centroid: False
+
+********** Community [1160] ************
+
+Id: 1160, Community ID: 1160, Is Centroid: True
+
+Id: 1839, Community ID: 1160, Is Centroid: False
+
+Id: 2537, Community ID: 1160, Is Centroid: False
+
+Id: 2782, Community ID: 1160, Is Centroid: False
+
+Id: 2802, Community ID: 1160, Is Centroid: False
+
+Id: 3249, Community ID: 1160, Is Centroid: False
+
+Id: 4039, Community ID: 1160, Is Centroid: False
+
+Id: 4460, Community ID: 1160, Is Centroid: False
+
+Id: 4461, Community ID: 1160, Is Centroid: False
+
+Id: 4557, Community ID: 1160, Is Centroid: False
+
+Id: 6395, Community ID: 1160, Is Centroid: False
+
+********** Community [1192] ************
+
+Id: 1192, Community ID: 1192, Is Centroid: False
+
+Id: 2054, Community ID: 1192, Is Centroid: True
+
+Id: 4748, Community ID: 1192, Is Centroid: False
+
+Id: 4749, Community ID: 1192, Is Centroid: False
+
+Id: 4937, Community ID: 1192, Is Centroid: False
+
+Id: 5271, Community ID: 1192, Is Centroid: False
+
+********** Community [1196] ************
+
+Id: 1196, Community ID: 1196, Is Centroid: True
+
+Id: 1197, Community ID: 1196, Is Centroid: False
+
+Id: 2096, Community ID: 1196, Is Centroid: False
+
+Id: 2852, Community ID: 1196, Is Centroid: False
+
+Id: 3187, Community ID: 1196, Is Centroid: False
+
+Id: 4322, Community ID: 1196, Is Centroid: False
+
+Id: 4325, Community ID: 1196, Is Centroid: False
+
+********** Community [1238] ************
+
+Id: 1238, Community ID: 1238, Is Centroid: True
+
+Id: 1710, Community ID: 1238, Is Centroid: False
+
+Id: 3054, Community ID: 1238, Is Centroid: False
+
+Id: 3775, Community ID: 1238, Is Centroid: False
+
+Id: 3963, Community ID: 1238, Is Centroid: False
+
+Id: 4293, Community ID: 1238, Is Centroid: False
+
+Id: 5996, Community ID: 1238, Is Centroid: False
+
+********** Community [1254] ************
+
+Id: 1254, Community ID: 1254, Is Centroid: True
+
+Id: 3016, Community ID: 1254, Is Centroid: False
+
+Id: 3022, Community ID: 1254, Is Centroid: False
+
+Id: 3027, Community ID: 1254, Is Centroid: False
+
+Id: 3033, Community ID: 1254, Is Centroid: False
+
+Id: 3867, Community ID: 1254, Is Centroid: False
+
+Id: 3957, Community ID: 1254, Is Centroid: False
+
+Id: 5179, Community ID: 1254, Is Centroid: False
+
+Id: 5433, Community ID: 1254, Is Centroid: False
+
+Id: 5435, Community ID: 1254, Is Centroid: False
+
+********** Community [1268] ************
+
+Id: 1268, Community ID: 1268, Is Centroid: True
+
+Id: 1944, Community ID: 1268, Is Centroid: False
+
+Id: 3962, Community ID: 1268, Is Centroid: False
+
+Id: 5220, Community ID: 1268, Is Centroid: False
+
+Id: 5292, Community ID: 1268, Is Centroid: False
+
+Id: 6281, Community ID: 1268, Is Centroid: False
+
+********** Community [1269] ************
+
+Id: 1269, Community ID: 1269, Is Centroid: False
+
+Id: 1433, Community ID: 1269, Is Centroid: True
+
+Id: 1609, Community ID: 1269, Is Centroid: False
+
+Id: 2200, Community ID: 1269, Is Centroid: False
+
+Id: 2678, Community ID: 1269, Is Centroid: False
+
+Id: 3366, Community ID: 1269, Is Centroid: False
+
+Id: 3473, Community ID: 1269, Is Centroid: False
+
+Id: 4025, Community ID: 1269, Is Centroid: False
+
+********** Community [1285] ************
+
+Id: 1285, Community ID: 1285, Is Centroid: False
+
+Id: 1452, Community ID: 1285, Is Centroid: False
+
+Id: 2654, Community ID: 1285, Is Centroid: False
+
+Id: 2915, Community ID: 1285, Is Centroid: True
+
+Id: 2980, Community ID: 1285, Is Centroid: False
+
+Id: 5603, Community ID: 1285, Is Centroid: False
+
+********** Community [1302] ************
+
+Id: 1302, Community ID: 1302, Is Centroid: False
+
+Id: 1454, Community ID: 1302, Is Centroid: True
+
+Id: 2505, Community ID: 1302, Is Centroid: False
+
+Id: 2617, Community ID: 1302, Is Centroid: False
+
+Id: 3841, Community ID: 1302, Is Centroid: False
+
+Id: 4092, Community ID: 1302, Is Centroid: False
+
+Id: 4482, Community ID: 1302, Is Centroid: False
+
+Id: 5990, Community ID: 1302, Is Centroid: False
+
+Id: 6159, Community ID: 1302, Is Centroid: False
+
+********** Community [1323] ************
+
+Id: 1323, Community ID: 1323, Is Centroid: True
+
+Id: 1780, Community ID: 1323, Is Centroid: False
+
+Id: 3086, Community ID: 1323, Is Centroid: False
+
+Id: 3481, Community ID: 1323, Is Centroid: False
+
+Id: 3666, Community ID: 1323, Is Centroid: False
+
+Id: 4135, Community ID: 1323, Is Centroid: False
+
+Id: 4451, Community ID: 1323, Is Centroid: False
+
+Id: 4459, Community ID: 1323, Is Centroid: False
+
+Id: 5225, Community ID: 1323, Is Centroid: False
+
+********** Community [1346] ************
+
+Id: 1346, Community ID: 1346, Is Centroid: False
+
+Id: 1592, Community ID: 1346, Is Centroid: False
+
+Id: 1772, Community ID: 1346, Is Centroid: False
+
+Id: 1883, Community ID: 1346, Is Centroid: False
+
+Id: 1918, Community ID: 1346, Is Centroid: False
+
+Id: 2026, Community ID: 1346, Is Centroid: True
+
+Id: 3389, Community ID: 1346, Is Centroid: False
+
+Id: 3784, Community ID: 1346, Is Centroid: False
+
+Id: 3980, Community ID: 1346, Is Centroid: False
+
+Id: 4534, Community ID: 1346, Is Centroid: False
+
+Id: 4612, Community ID: 1346, Is Centroid: False
+
+Id: 4690, Community ID: 1346, Is Centroid: False
+
+Id: 5339, Community ID: 1346, Is Centroid: False
+
+Id: 5666, Community ID: 1346, Is Centroid: False
+
+Id: 6098, Community ID: 1346, Is Centroid: False
+
+Id: 6109, Community ID: 1346, Is Centroid: False
+
+Id: 6377, Community ID: 1346, Is Centroid: False
+
+Id: 6410, Community ID: 1346, Is Centroid: False
+
+********** Community [1384] ************
+
+Id: 1384, Community ID: 1384, Is Centroid: False
+
+Id: 1430, Community ID: 1384, Is Centroid: True
+
+Id: 2000, Community ID: 1384, Is Centroid: False
+
+Id: 2053, Community ID: 1384, Is Centroid: False
+
+Id: 3731, Community ID: 1384, Is Centroid: False
+
+Id: 4198, Community ID: 1384, Is Centroid: False
+
+********** Community [1389] ************
+
+Id: 1389, Community ID: 1389, Is Centroid: True
+
+Id: 2409, Community ID: 1389, Is Centroid: False
+
+Id: 2412, Community ID: 1389, Is Centroid: False
+
+Id: 3112, Community ID: 1389, Is Centroid: False
+
+Id: 3542, Community ID: 1389, Is Centroid: False
+
+Id: 5767, Community ID: 1389, Is Centroid: False
+
+********** Community [1392] ************
+
+Id: 1392, Community ID: 1392, Is Centroid: False
+
+Id: 1974, Community ID: 1392, Is Centroid: False
+
+Id: 2091, Community ID: 1392, Is Centroid: False
+
+Id: 2106, Community ID: 1392, Is Centroid: False
+
+Id: 2345, Community ID: 1392, Is Centroid: False
+
+Id: 2581, Community ID: 1392, Is Centroid: True
+
+Id: 3181, Community ID: 1392, Is Centroid: False
+
+Id: 5337, Community ID: 1392, Is Centroid: False
+
+********** Community [1394] ************
+
+Id: 1394, Community ID: 1394, Is Centroid: False
+
+Id: 2784, Community ID: 1394, Is Centroid: False
+
+Id: 3545, Community ID: 1394, Is Centroid: False
+
+Id: 3847, Community ID: 1394, Is Centroid: False
+
+Id: 4273, Community ID: 1394, Is Centroid: True
+
+Id: 5479, Community ID: 1394, Is Centroid: False
+
+Id: 5558, Community ID: 1394, Is Centroid: False
+
+Id: 5708, Community ID: 1394, Is Centroid: False
+
+Id: 6138, Community ID: 1394, Is Centroid: False
+
+********** Community [1436] ************
+
+Id: 1436, Community ID: 1436, Is Centroid: True
+
+Id: 3192, Community ID: 1436, Is Centroid: False
+
+Id: 3558, Community ID: 1436, Is Centroid: False
+
+Id: 3587, Community ID: 1436, Is Centroid: False
+
+Id: 4907, Community ID: 1436, Is Centroid: False
+
+Id: 5864, Community ID: 1436, Is Centroid: False
+
+********** Community [1442] ************
+
+Id: 1442, Community ID: 1442, Is Centroid: False
+
+Id: 1767, Community ID: 1442, Is Centroid: False
+
+Id: 2022, Community ID: 1442, Is Centroid: True
+
+Id: 2976, Community ID: 1442, Is Centroid: False
+
+Id: 4121, Community ID: 1442, Is Centroid: False
+
+Id: 5008, Community ID: 1442, Is Centroid: False
+
+********** Community [1461] ************
+
+Id: 1461, Community ID: 1461, Is Centroid: True
+
+Id: 2897, Community ID: 1461, Is Centroid: False
+
+Id: 4201, Community ID: 1461, Is Centroid: False
+
+Id: 5422, Community ID: 1461, Is Centroid: False
+
+Id: 5423, Community ID: 1461, Is Centroid: False
+
+Id: 5598, Community ID: 1461, Is Centroid: False
+
+********** Community [1488] ************
+
+Id: 1488, Community ID: 1488, Is Centroid: False
+
+Id: 1871, Community ID: 1488, Is Centroid: False
+
+Id: 2541, Community ID: 1488, Is Centroid: True
+
+Id: 4297, Community ID: 1488, Is Centroid: False
+
+Id: 6125, Community ID: 1488, Is Centroid: False
+
+Id: 6381, Community ID: 1488, Is Centroid: False
+
+********** Community [1511] ************
+
+Id: 1511, Community ID: 1511, Is Centroid: True
+
+Id: 2645, Community ID: 1511, Is Centroid: False
+
+Id: 5351, Community ID: 1511, Is Centroid: False
+
+Id: 5638, Community ID: 1511, Is Centroid: False
+
+Id: 6087, Community ID: 1511, Is Centroid: False
+
+Id: 6371, Community ID: 1511, Is Centroid: False
+
+********** Community [1515] ************
+
+Id: 1515, Community ID: 1515, Is Centroid: True
+
+Id: 1517, Community ID: 1515, Is Centroid: False
+
+Id: 1623, Community ID: 1515, Is Centroid: False
+
+Id: 2733, Community ID: 1515, Is Centroid: False
+
+Id: 3171, Community ID: 1515, Is Centroid: False
+
+Id: 3304, Community ID: 1515, Is Centroid: False
+
+Id: 3341, Community ID: 1515, Is Centroid: False
+
+Id: 4518, Community ID: 1515, Is Centroid: False
+
+********** Community [1558] ************
+
+Id: 1558, Community ID: 1558, Is Centroid: False
+
+Id: 2037, Community ID: 1558, Is Centroid: False
+
+Id: 3895, Community ID: 1558, Is Centroid: False
+
+Id: 6370, Community ID: 1558, Is Centroid: False
+
+Id: 6396, Community ID: 1558, Is Centroid: False
+
+Id: 6397, Community ID: 1558, Is Centroid: True
+
+********** Community [1586] ************
+
+Id: 1586, Community ID: 1586, Is Centroid: True
+
+Id: 2251, Community ID: 1586, Is Centroid: False
+
+Id: 2972, Community ID: 1586, Is Centroid: False
+
+Id: 3295, Community ID: 1586, Is Centroid: False
+
+Id: 3390, Community ID: 1586, Is Centroid: False
+
+Id: 3555, Community ID: 1586, Is Centroid: False
+
+Id: 3849, Community ID: 1586, Is Centroid: False
+
+Id: 4158, Community ID: 1586, Is Centroid: False
+
+Id: 4159, Community ID: 1586, Is Centroid: False
+
+Id: 5392, Community ID: 1586, Is Centroid: False
+
+Id: 5395, Community ID: 1586, Is Centroid: False
+
+Id: 5473, Community ID: 1586, Is Centroid: False
+
+Id: 5801, Community ID: 1586, Is Centroid: False
+
+********** Community [1620] ************
+
+Id: 1620, Community ID: 1620, Is Centroid: False
+
+Id: 1957, Community ID: 1620, Is Centroid: False
+
+Id: 2708, Community ID: 1620, Is Centroid: False
+
+Id: 4580, Community ID: 1620, Is Centroid: True
+
+Id: 5484, Community ID: 1620, Is Centroid: False
+
+Id: 5500, Community ID: 1620, Is Centroid: False
+
+Id: 5528, Community ID: 1620, Is Centroid: False
+
+Id: 5668, Community ID: 1620, Is Centroid: False
+
+Id: 5758, Community ID: 1620, Is Centroid: False
+
+Id: 6126, Community ID: 1620, Is Centroid: False
+
+Id: 6249, Community ID: 1620, Is Centroid: False
+
+Id: 6430, Community ID: 1620, Is Centroid: False
+
+********** Community [1627] ************
+
+Id: 1627, Community ID: 1627, Is Centroid: True
+
+Id: 2998, Community ID: 1627, Is Centroid: False
+
+Id: 3964, Community ID: 1627, Is Centroid: False
+
+Id: 4006, Community ID: 1627, Is Centroid: False
+
+Id: 5102, Community ID: 1627, Is Centroid: False
+
+Id: 5325, Community ID: 1627, Is Centroid: False
+
+Id: 5838, Community ID: 1627, Is Centroid: False
+
+********** Community [1634] ************
+
+Id: 1634, Community ID: 1634, Is Centroid: False
+
+Id: 2052, Community ID: 1634, Is Centroid: True
+
+Id: 3373, Community ID: 1634, Is Centroid: False
+
+Id: 4261, Community ID: 1634, Is Centroid: False
+
+Id: 5705, Community ID: 1634, Is Centroid: False
+
+Id: 5706, Community ID: 1634, Is Centroid: False
+
+Id: 6140, Community ID: 1634, Is Centroid: False
+
+********** Community [1663] ************
+
+Id: 1663, Community ID: 1663, Is Centroid: True
+
+Id: 2304, Community ID: 1663, Is Centroid: False
+
+Id: 4637, Community ID: 1663, Is Centroid: False
+
+Id: 4638, Community ID: 1663, Is Centroid: False
+
+Id: 6135, Community ID: 1663, Is Centroid: False
+
+Id: 6176, Community ID: 1663, Is Centroid: False
+
+********** Community [1704] ************
+
+Id: 1704, Community ID: 1704, Is Centroid: False
+
+Id: 2024, Community ID: 1704, Is Centroid: False
+
+Id: 2090, Community ID: 1704, Is Centroid: False
+
+Id: 4331, Community ID: 1704, Is Centroid: False
+
+Id: 4332, Community ID: 1704, Is Centroid: True
+
+Id: 4333, Community ID: 1704, Is Centroid: False
+
+Id: 4572, Community ID: 1704, Is Centroid: False
+
+Id: 5318, Community ID: 1704, Is Centroid: False
+
+Id: 5642, Community ID: 1704, Is Centroid: False
+
+********** Community [1753] ************
+
+Id: 1753, Community ID: 1753, Is Centroid: False
+
+Id: 2763, Community ID: 1753, Is Centroid: True
+
+Id: 4549, Community ID: 1753, Is Centroid: False
+
+Id: 4551, Community ID: 1753, Is Centroid: False
+
+Id: 5626, Community ID: 1753, Is Centroid: False
+
+Id: 5627, Community ID: 1753, Is Centroid: False
+
+Id: 5917, Community ID: 1753, Is Centroid: False
+
+Id: 6222, Community ID: 1753, Is Centroid: False
+
+********** Community [1766] ************
+
+Id: 1766, Community ID: 1766, Is Centroid: True
+
+Id: 2350, Community ID: 1766, Is Centroid: False
+
+Id: 2987, Community ID: 1766, Is Centroid: False
+
+Id: 3935, Community ID: 1766, Is Centroid: False
+
+Id: 4070, Community ID: 1766, Is Centroid: False
+
+Id: 5661, Community ID: 1766, Is Centroid: False
+
+********** Community [1824] ************
+
+Id: 1824, Community ID: 1824, Is Centroid: True
+
+Id: 4080, Community ID: 1824, Is Centroid: False
+
+Id: 4211, Community ID: 1824, Is Centroid: False
+
+Id: 4593, Community ID: 1824, Is Centroid: False
+
+Id: 5924, Community ID: 1824, Is Centroid: False
+
+Id: 6095, Community ID: 1824, Is Centroid: False
+
+********** Community [1848] ************
+
+Id: 1848, Community ID: 1848, Is Centroid: False
+
+Id: 2327, Community ID: 1848, Is Centroid: False
+
+Id: 2681, Community ID: 1848, Is Centroid: False
+
+Id: 3540, Community ID: 1848, Is Centroid: False
+
+Id: 4422, Community ID: 1848, Is Centroid: False
+
+Id: 5095, Community ID: 1848, Is Centroid: True
+
+********** Community [1855] ************
+
+Id: 1855, Community ID: 1855, Is Centroid: False
+
+Id: 2647, Community ID: 1855, Is Centroid: True
+
+Id: 2663, Community ID: 1855, Is Centroid: False
+
+Id: 3609, Community ID: 1855, Is Centroid: False
+
+Id: 4073, Community ID: 1855, Is Centroid: False
+
+Id: 6346, Community ID: 1855, Is Centroid: False
+
+********** Community [1864] ************
+
+Id: 1864, Community ID: 1864, Is Centroid: False
+
+Id: 2937, Community ID: 1864, Is Centroid: False
+
+Id: 3387, Community ID: 1864, Is Centroid: False
+
+Id: 4542, Community ID: 1864, Is Centroid: True
+
+Id: 4781, Community ID: 1864, Is Centroid: False
+
+Id: 5458, Community ID: 1864, Is Centroid: False
+
+********** Community [1885] ************
+
+Id: 1885, Community ID: 1885, Is Centroid: True
+
+Id: 2330, Community ID: 1885, Is Centroid: False
+
+Id: 2978, Community ID: 1885, Is Centroid: False
+
+Id: 3174, Community ID: 1885, Is Centroid: False
+
+Id: 3265, Community ID: 1885, Is Centroid: False
+
+Id: 4407, Community ID: 1885, Is Centroid: False
+
+Id: 4889, Community ID: 1885, Is Centroid: False
+
+Id: 4969, Community ID: 1885, Is Centroid: False
+
+Id: 5402, Community ID: 1885, Is Centroid: False
+
+Id: 5681, Community ID: 1885, Is Centroid: False
+
+********** Community [1898] ************
+
+Id: 1898, Community ID: 1898, Is Centroid: False
+
+Id: 2850, Community ID: 1898, Is Centroid: False
+
+Id: 3110, Community ID: 1898, Is Centroid: True
+
+Id: 3158, Community ID: 1898, Is Centroid: False
+
+Id: 4227, Community ID: 1898, Is Centroid: False
+
+Id: 5993, Community ID: 1898, Is Centroid: False
+
+********** Community [1906] ************
+
+Id: 1906, Community ID: 1906, Is Centroid: False
+
+Id: 3006, Community ID: 1906, Is Centroid: True
+
+Id: 3196, Community ID: 1906, Is Centroid: False
+
+Id: 3982, Community ID: 1906, Is Centroid: False
+
+Id: 4918, Community ID: 1906, Is Centroid: False
+
+Id: 5026, Community ID: 1906, Is Centroid: False
+
+********** Community [1942] ************
+
+Id: 1942, Community ID: 1942, Is Centroid: True
+
+Id: 2704, Community ID: 1942, Is Centroid: False
+
+Id: 2814, Community ID: 1942, Is Centroid: False
+
+Id: 2991, Community ID: 1942, Is Centroid: False
+
+Id: 2992, Community ID: 1942, Is Centroid: False
+
+Id: 5041, Community ID: 1942, Is Centroid: False
+
+Id: 5871, Community ID: 1942, Is Centroid: False
+
+Id: 6289, Community ID: 1942, Is Centroid: False
+
+********** Community [1981] ************
+
+Id: 1981, Community ID: 1981, Is Centroid: False
+
+Id: 2580, Community ID: 1981, Is Centroid: False
+
+Id: 3324, Community ID: 1981, Is Centroid: False
+
+Id: 4757, Community ID: 1981, Is Centroid: False
+
+Id: 5629, Community ID: 1981, Is Centroid: True
+
+Id: 6385, Community ID: 1981, Is Centroid: False
+
+********** Community [2003] ************
+
+Id: 2003, Community ID: 2003, Is Centroid: False
+
+Id: 4632, Community ID: 2003, Is Centroid: False
+
+Id: 5019, Community ID: 2003, Is Centroid: False
+
+Id: 5228, Community ID: 2003, Is Centroid: False
+
+Id: 5644, Community ID: 2003, Is Centroid: True
+
+Id: 6343, Community ID: 2003, Is Centroid: False
+
+********** Community [2004] ************
+
+Id: 2004, Community ID: 2004, Is Centroid: False
+
+Id: 2480, Community ID: 2004, Is Centroid: False
+
+Id: 2743, Community ID: 2004, Is Centroid: False
+
+Id: 2849, Community ID: 2004, Is Centroid: True
+
+Id: 5621, Community ID: 2004, Is Centroid: False
+
+Id: 5623, Community ID: 2004, Is Centroid: False
+
+Id: 5624, Community ID: 2004, Is Centroid: False
+
+Id: 5648, Community ID: 2004, Is Centroid: False
+
+Id: 5836, Community ID: 2004, Is Centroid: False
+
+********** Community [2057] ************
+
+Id: 2057, Community ID: 2057, Is Centroid: True
+
+Id: 3256, Community ID: 2057, Is Centroid: False
+
+Id: 3258, Community ID: 2057, Is Centroid: False
+
+Id: 3259, Community ID: 2057, Is Centroid: False
+
+Id: 3261, Community ID: 2057, Is Centroid: False
+
+Id: 4810, Community ID: 2057, Is Centroid: False
+
+********** Community [2135] ************
+
+Id: 2135, Community ID: 2135, Is Centroid: False
+
+Id: 2365, Community ID: 2135, Is Centroid: False
+
+Id: 2605, Community ID: 2135, Is Centroid: True
+
+Id: 3239, Community ID: 2135, Is Centroid: False
+
+Id: 4910, Community ID: 2135, Is Centroid: False
+
+Id: 4919, Community ID: 2135, Is Centroid: False
+
+Id: 5033, Community ID: 2135, Is Centroid: False
+
+Id: 5208, Community ID: 2135, Is Centroid: False
+
+Id: 5256, Community ID: 2135, Is Centroid: False
+
+Id: 5257, Community ID: 2135, Is Centroid: False
+
+Id: 5451, Community ID: 2135, Is Centroid: False
+
+Id: 5452, Community ID: 2135, Is Centroid: False
+
+Id: 5543, Community ID: 2135, Is Centroid: False
+
+Id: 5552, Community ID: 2135, Is Centroid: False
+
+********** Community [2227] ************
+
+Id: 2227, Community ID: 2227, Is Centroid: True
+
+Id: 3260, Community ID: 2227, Is Centroid: False
+
+Id: 3846, Community ID: 2227, Is Centroid: False
+
+Id: 4235, Community ID: 2227, Is Centroid: False
+
+Id: 4837, Community ID: 2227, Is Centroid: False
+
+Id: 5132, Community ID: 2227, Is Centroid: False
+
+********** Community [2249] ************
+
+Id: 2249, Community ID: 2249, Is Centroid: True
+
+Id: 2254, Community ID: 2249, Is Centroid: False
+
+Id: 4236, Community ID: 2249, Is Centroid: False
+
+Id: 4654, Community ID: 2249, Is Centroid: False
+
+Id: 5985, Community ID: 2249, Is Centroid: False
+
+Id: 6359, Community ID: 2249, Is Centroid: False
+
+********** Community [2258] ************
+
+Id: 2258, Community ID: 2258, Is Centroid: True
+
+Id: 2326, Community ID: 2258, Is Centroid: False
+
+Id: 2990, Community ID: 2258, Is Centroid: False
+
+Id: 4244, Community ID: 2258, Is Centroid: False
+
+Id: 5809, Community ID: 2258, Is Centroid: False
+
+Id: 5914, Community ID: 2258, Is Centroid: False
+
+Id: 6173, Community ID: 2258, Is Centroid: False
+
+********** Community [2286] ************
+
+Id: 2286, Community ID: 2286, Is Centroid: True
+
+Id: 3236, Community ID: 2286, Is Centroid: False
+
+Id: 3443, Community ID: 2286, Is Centroid: False
+
+Id: 4648, Community ID: 2286, Is Centroid: False
+
+Id: 4649, Community ID: 2286, Is Centroid: False
+
+Id: 4834, Community ID: 2286, Is Centroid: False
+
+Id: 4958, Community ID: 2286, Is Centroid: False
+
+********** Community [2382] ************
+
+Id: 2382, Community ID: 2382, Is Centroid: True
+
+Id: 2627, Community ID: 2382, Is Centroid: False
+
+Id: 2898, Community ID: 2382, Is Centroid: False
+
+Id: 3264, Community ID: 2382, Is Centroid: False
+
+Id: 3274, Community ID: 2382, Is Centroid: False
+
+Id: 3520, Community ID: 2382, Is Centroid: False
+
+Id: 4069, Community ID: 2382, Is Centroid: False
+
+Id: 5686, Community ID: 2382, Is Centroid: False
+
+Id: 6438, Community ID: 2382, Is Centroid: False
+
+********** Community [2468] ************
+
+Id: 2468, Community ID: 2468, Is Centroid: False
+
+Id: 3159, Community ID: 2468, Is Centroid: True
+
+Id: 3690, Community ID: 2468, Is Centroid: False
+
+Id: 4309, Community ID: 2468, Is Centroid: False
+
+Id: 5053, Community ID: 2468, Is Centroid: False
+
+Id: 5794, Community ID: 2468, Is Centroid: False
+
+********** Community [2792] ************
+
+Id: 2792, Community ID: 2792, Is Centroid: False
+
+Id: 2953, Community ID: 2792, Is Centroid: True
+
+Id: 3303, Community ID: 2792, Is Centroid: False
+
+Id: 4713, Community ID: 2792, Is Centroid: False
+
+Id: 5950, Community ID: 2792, Is Centroid: False
+
+Id: 6118, Community ID: 2792, Is Centroid: False
+
+********** Community [2795] ************
+
+Id: 2795, Community ID: 2795, Is Centroid: True
+
+Id: 3305, Community ID: 2795, Is Centroid: False
+
+Id: 4341, Community ID: 2795, Is Centroid: False
+
+Id: 4446, Community ID: 2795, Is Centroid: False
+
+Id: 6020, Community ID: 2795, Is Centroid: False
+
+Id: 6103, Community ID: 2795, Is Centroid: False
+
+********** Community [2821] ************
+
+Id: 2821, Community ID: 2821, Is Centroid: True
+
+Id: 2905, Community ID: 2821, Is Centroid: False
+
+Id: 3535, Community ID: 2821, Is Centroid: False
+
+Id: 5641, Community ID: 2821, Is Centroid: False
+
+Id: 5714, Community ID: 2821, Is Centroid: False
+
+Id: 5807, Community ID: 2821, Is Centroid: False
+
+********** Community [2886] ************
+
+Id: 2886, Community ID: 2886, Is Centroid: True
+
+Id: 2887, Community ID: 2886, Is Centroid: False
+
+Id: 2888, Community ID: 2886, Is Centroid: False
+
+Id: 2889, Community ID: 2886, Is Centroid: False
+
+Id: 3281, Community ID: 2886, Is Centroid: False
+
+Id: 4608, Community ID: 2886, Is Centroid: False
+
+********** Community [2959] ************
+
+Id: 2959, Community ID: 2959, Is Centroid: True
+
+Id: 3135, Community ID: 2959, Is Centroid: False
+
+Id: 4155, Community ID: 2959, Is Centroid: False
+
+Id: 4704, Community ID: 2959, Is Centroid: False
+
+Id: 5306, Community ID: 2959, Is Centroid: False
+
+Id: 5732, Community ID: 2959, Is Centroid: False
+
+Id: 6166, Community ID: 2959, Is Centroid: False
+
+********** Community [3185] ************
+
+Id: 3185, Community ID: 3185, Is Centroid: True
+
+Id: 3488, Community ID: 3185, Is Centroid: False
+
+Id: 3517, Community ID: 3185, Is Centroid: False
+
+Id: 3828, Community ID: 3185, Is Centroid: False
+
+Id: 4048, Community ID: 3185, Is Centroid: False
+
+Id: 4565, Community ID: 3185, Is Centroid: False
+
+Id: 5338, Community ID: 3185, Is Centroid: False
+
+********** Community [3464] ************
+
+Id: 3464, Community ID: 3464, Is Centroid: False
+
+Id: 4389, Community ID: 3464, Is Centroid: False
+
+Id: 4905, Community ID: 3464, Is Centroid: True
+
+Id: 5093, Community ID: 3464, Is Centroid: False
+
+Id: 6080, Community ID: 3464, Is Centroid: False
+
+Id: 6092, Community ID: 3464, Is Centroid: False
