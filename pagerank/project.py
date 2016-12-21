@@ -84,7 +84,7 @@ def pagerank_to_plot(pagerank, center):
     plt.show()
 
 
-adj = create_matrix("./weighted_edges.txt")
+adj = create_matrix("../inputs/weighted_edges.txt")
 graph = nx.from_numpy_matrix(adj) # create graph from ada
 #general_pagerank(graph)
 pg = topic_specific_pagerank(graph)
