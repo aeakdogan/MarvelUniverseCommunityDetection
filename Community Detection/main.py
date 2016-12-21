@@ -9,7 +9,7 @@ belongingDegrees = []
 neighborsOfCommunity = []
 
 
-def findMaxWeightedEdge(edges_list):
+def findMaxWeightedEdge(edges_list, meanOfEdges):
     maxWeighedEdge = 0
     vertex1 = -1
     vertex2 = -1
@@ -18,6 +18,8 @@ def findMaxWeightedEdge(edges_list):
             maxWeighedEdge = edge[2]
             vertex1 = edge[0]
             vertex2 = edge[1]
+    if maxWeighedEdge < meanOfEdges:
+        return -1
     return [vertex1, vertex2]
 
 
@@ -32,14 +34,16 @@ def findMaxBelongingDegreedNode(c):
     return maxBelongingDegreedNode
 
 
-def detectionAlgorithm(n, edges_list):
+def detectionAlgorithm(n, edges_list, meanOfEdges):
     communities = []
     global isInCommunity
     global belongingDegrees
     global neighborsOfCommunity
 
     while len(edges_list) > 0:
-        c = findMaxWeightedEdge(edges_list)
+        c = findMaxWeightedEdge(edges_list, meanOfEdges)
+        if isinstance(c, int) and c == -1:
+            break
         isInCommunity = [False] * (n + 1)
         belongingDegrees = [0] * (n + 1)
         neighborsOfCommunity = []
@@ -65,6 +69,8 @@ def detectionAlgorithm(n, edges_list):
                 weightOfCuttingEdgesOfCommunity += node[1]
             belongingDegrees[node[0]] += node[1]
 
+        diff = 0
+        diff2 = 0
         if len(neighborsOfCommunity) > 0:
             while True:
                 new_node = findMaxBelongingDegreedNode(c)
@@ -85,6 +91,12 @@ def detectionAlgorithm(n, edges_list):
                 newConductance = newCuttingWeight / newAllWeight
 
                 if newConductance < currentConductance:
+                    diff2 = diff
+                    diff = currentConductance - newConductance
+                    #print('difference of diff: ', "{0:.5f}".format(diff - diff2) )
+                    #print('=diff: ', "{0:.5f}".format(currentConductance - newConductance) )
+                    #print('diff: ', currentConductance - newConductance)
+
                     c = new_c
                     weightOfCuttingEdgesOfCommunity = newCuttingWeight
                     weightOfAllEdgesOfCommunity = newAllWeight
@@ -98,8 +110,11 @@ def detectionAlgorithm(n, edges_list):
                 else:
                     break
 
-        # print([chr(ord('a') + node - 1) for node in c])
+        print([chr(ord('a') + node - 1) for node in c])
+
         communities.append(c)
+        #print(len(communities), c)
+        #break
         tmp_list = []
         for edge in edges_list:
             if not isInCommunity[edge[0]] or not isInCommunity[edge[1]]:
@@ -112,6 +127,8 @@ def main():
     edges_list = []
     line_count = 0
     n = 0
+    sumOfEdges = 0
+    meanOfEdges = 0
     outputFile = open('../outputs/communities.txt', 'w+')
     with codecs.open("../inputs/sampleInput.txt", 'r', encoding='utf-8', errors='ignore') as file:
     #with codecs.open("../inputs/weighted_edges.txt", 'r', encoding='utf-8', errors='ignore') as file:
@@ -137,7 +154,10 @@ def main():
                 edges[vertex2].append([vertex1, weight])
 
             edges_list.append([vertex1, vertex2, weight])
+            sumOfEdges += weight
             line_count += 1
+    meanOfEdges = sumOfEdges / len(edges_list)
+    #print('meanOfEdges', sumOfEdges / len(edges_list))
     for i in range(1, n + 1):
         if i not in edges:
             edges[i] = []
@@ -148,7 +168,7 @@ def main():
         for node in edges[i]:
             sumOfWeights[i] += node[1]
 
-    communities = detectionAlgorithm(n, edges_list)
+    communities = detectionAlgorithm(n, edges_list, meanOfEdges)
 
     cnt = 1
     for community in communities:
