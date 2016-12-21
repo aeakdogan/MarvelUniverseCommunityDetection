@@ -160,7 +160,16 @@ def main():
             for node in out[1]:
                 txt_output += node.__repr__()
 
+    csv_out = 'id,group\n'
+    for out in community_output.items():
+        for node in out[1]:
+            line = '{},{}\n'.format(node.id, node.comm_id)
+            csv_out += line
+
     with codecs.open('../outputs/HierarchicalClusteringCommunities1.txt', 'w', encoding='utf-8', errors='ignore') as file:
         file.write(txt_output)
+
+    with codecs.open('../outputs/cluster_nodes.csv', 'w', encoding='utf-8', errors='ignore') as file:
+        file.write(csv_out)
 
 main()
