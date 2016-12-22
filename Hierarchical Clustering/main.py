@@ -149,27 +149,16 @@ def main():
         else:
             community_output[communities[i].comm_id].append(communities[i])
 
-    # sorted_output = OrderedDict(sorted(community_output.items(), key=lambda t: (t[0], len(t[1])), reverse=True))
-
     print('Generating Output, Please Wait...')
     txt_output = ''
     for out in community_output.items():
-        if len(out[1]) > 5:
+        if len(out[1]) > 2:
             msg = '\n********** Community [{}] ************\n'.format(out[0])
             txt_output += msg
             for node in out[1]:
                 txt_output += node.__repr__()
 
-    csv_out = 'id,group\n'
-    for out in community_output.items():
-        for node in out[1]:
-            line = '{},{}\n'.format(node.id, node.comm_id)
-            csv_out += line
-
     with codecs.open('../outputs/HierarchicalClusteringCommunities1.txt', 'w', encoding='utf-8', errors='ignore') as file:
         file.write(txt_output)
-
-    with codecs.open('../outputs/cluster_nodes.csv', 'w', encoding='utf-8', errors='ignore') as file:
-        file.write(csv_out)
 
 main()
