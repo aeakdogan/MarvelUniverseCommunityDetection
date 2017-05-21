@@ -24,3 +24,9 @@ We have investigated communities in the Marvel Universe collaboration network.
 It was interesting to compare our results with the knowledge we have about the Marvel
 Universe. We have found many Marvel characters that were overlapping in many
 communities because of the crossover of the Marvel characters in the comic books. 
+
+### For more information about implementation and project details you can reach out our project presentation and report from the below links!
+
+#### [Project Report](/../master/CommunityDetectionReport.pdf)
+#### [Project Presentation](/../master/project_presentation.pdf)
+
