@@ -1,4 +1,5 @@
 # MarvelUniverseCommunityDetection
+![Alt text] (/../master/figures/Marvel.png)
 Marvel Comics, together with DC Comics, have been for many decades the two
 main comic book publishing companies in the world. Marvel Comics first became
 popular during the Golden Age of comics.Some of the characters created in this period,
